@@ -86,7 +86,7 @@ Similarly, Abraham Maslow's concept of self-actualization represents the pinnacl
 All these framings, in essence, depict the psyche as a complex system navigating a field of potentials, constantly striving for equilibrium and wholeness.
 
 
-# 6. ASI Analogies 
+# 5. ASI Analogies 
 
 As mentioned, the analogy here was born with the notion of an asi-thermocline. A function that system would need to develop to act like a regulating boundary layer that mediates between high-energy, fast-processing surface layers (real-time adaptive AI agents, human-AI interfaces) and deep, stable, latent intelligence (foundational knowledge, ethical constraints, long-term strategic models). To ensure that the ASI’s global workspace, where key decisions/unifications happen, remains both flexible and unified.
 
@@ -121,7 +121,8 @@ Or it could also be structured as:
    - Emergent Hierarchies: Allows contextually relevant subsystems to lead without rigid structures
    - Pycnocline Synergy: Aligns with natural density gradients in information importance
 
-# 5. Conclusion
+
+# 6. Conclusion
 
 At its core, Potential Dynamics posits that emergence is not random but directed—shaped by invisible yet mathematically precise fields of energy, information, and intention. These scalar fields generate vector forces—gradients—that guide the self-organization of complex systems. Whether it's water molecules resisting vertical mixing across a pycnocline or AI agents allocating attention across a feature space, the same underlying logic applies: the system evolves to minimize resistance and maximize coherence.
 
