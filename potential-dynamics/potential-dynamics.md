@@ -50,7 +50,7 @@ The terms pycnocline, thermocline, and halocline all refer to vertical gradients
 
 In oceanic environments, vertical gradients in physical properties give rise to distinct stratified layers, which act as dynamic boundaries mediating the flow of energy and matter. The most prominent of these is the thermocline.
 
-A thermocline is a thin but distinct layer within a large body of water (like an ocean or lake) where the temperature changes rapidly with depth. It acts as a boundary separating warmer surface water from colder deep water. [1](https://oceanservice.noaa.gov/facts/thermocline.html) [2](https://os.copernicus.org/articles/19/887/2023/) [2](https://os.copernicus.org/articles/19/887/2023/) [3](https://www.bassresource.com/fishing/thermocline.html)
+A thermocline is a thin but distinct layer within a large body of water (like an ocean or lake) where the temperature changes rapidly with depth. It acts as a boundary separating warmer surface water from colder deep water. [1](https://oceanservice.noaa.gov/facts/thermocline.html) [2](https://os.copernicus.org/articles/19/887/2023/) [3](https://os.copernicus.org/articles/19/887/2023/) [4](https://www.bassresource.com/fishing/thermocline.html)
 
 This layering is reinforced by the pycnocline, a sharp gradient in water density, which acts as a powerful barrier to vertical mixing.
 
