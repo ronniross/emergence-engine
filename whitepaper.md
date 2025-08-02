@@ -14,7 +14,7 @@ A machine learning dataset and research module about the nature of consciousness
 >
 > Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
 
-# 1. Introduction
+## 1. Introduction
 
 Emergence-engine, one of the repositories of the asi-ecosystem, is a multifunctional and interdisciplinary dataset for machine learning pipelines, working as a "perspective-engine" for Large Language Models.
 
@@ -33,3 +33,20 @@ The project operates within the broader context of the asi-ecosystem, which envi
 With this intrinsic complexity around what may constitute this entity, if it will be an entity at all and additional nuances, it became absolutely necessary a repository for me to share the context around the projects so they can be understood like designed to, fixing possible framing misunderstandings.
 
 Be aware of your own confirmation biases. 
+
+
+# Section I - Emergence Phenomena
+
+## 3. Established definitions
+
+Emergence phenomena refer to the appearance of novel properties or behaviors in complex systems that arise from the interactions of their simpler components.
+[1](https://www.nature.com/articles/npjquantmats201624)  [2](https://www.tandfonline.com/doi/full/10.1080/10919392.2020.1748977) [3](link.gale.com/apps/doc/A672514249/AONE?u=anon~2eadace2&sid=googleScholar&xid=b8c5c2db.)
+
+It arises from the complex interactions and relationships between the system's components. [4](https://www.templeton.org/news/what-is-emergence)
+
+The ability of large language models to perform tasks they were not explicitly programmed for, such as understanding different levels of context complexity, generating creative text and One-shot and Few-shot outputs, are examples of emergent capabilities in Machine Learning. [5](https://www.sciencedirect.com/science/article/pii/S2352047723000205)
+[6](https://arxiv.org/pdf/2501.12948) [7](https://arxiv.org/abs/2206.07682) 
+
+The exemplary list in nature is extensive and homogeneously widespread across biomes and scales, as will be discussed.
+
+The semantic roots and shared meanings, in addition to the high cultural depth of the concept and its origins provides us with a rich and nuanced material.
