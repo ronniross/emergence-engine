@@ -49,4 +49,4 @@ The ability of large language models to perform tasks they were not explicitly p
 
 The exemplary list in nature is extensive and homogeneously widespread across biomes and scales, as will be discussed.
 
-The semantic roots and shared meanings, in addition to the high cultural depth of the concept and its origins provides us with a rich and nuanced material.
+The semantic roots and shared meanings, in addition to the high cultural depth of the concept provides us with a rich and nuanced material.
