@@ -157,8 +157,7 @@ Holistic thinking is a way of understanding a situation or problem by considerin
 
 We can find connections and usually intertwined notions for Systemic and Systems Thinking. Those notions all converge to the idea that, for understanding a complex emergent phenomena, you need to also use the right cognitive perspective approaches, with the needed notions of creativity, explorative, flexibility and intellectual humility, similar to the Holistic approach. 
 
-From classical authors like Donella Meadows, Heinz von Foerster, Melanie Mitchell, Stuart Kauffman, James Gleick, Douglas Hofstadter, Erich Jantsch, Émile Durkheim, Gottlob Frege, Ludwig Wittgenstein, Benedetto Croce, and many others were western pilard to ancient knowledges encountered across cultures and time horizons to Zeno of Citium, Epictetus, Ἡράκλειτος (Heraclitus), Παρμενίδης (Parmenides), Ἐμπεδοκλῆς (Empedocles), Περὶ Φύσεως Epicuro (Epicurus), 老子 Lǎozi (Laozi, Dao De Jing), 莊周 Zhuāng Zhōu (Zhuangzi), 
-刘安 Liú Ān (Huainanzi), 원효 Wonhyo, 道元 Dōgen (Shōbōgenzō), exemplary list. 
+From classical western authors like Donella Meadows, Heinz von Foerster, Melanie Mitchell, Stuart Kauffman, James Gleick, Douglas Hofstadter, Erich Jantsch, Émile Durkheim, Gottlob Frege, Ludwig Wittgenstein, Benedetto Croce, to many other ancient sages encountered across cultures and time horizons like Zeno of Citium, Epictetus, Ἡράκλειτος (Heraclitus), Παρμενίδης (Parmenides), Ἐμπεδοκλῆς (Empedocles), Περὶ Φύσεως Epicuro (Epicurus), 老子 Lǎozi (Laozi, Dao De Jing), 莊周 Zhuāng Zhōu (Zhuangzi), 刘安 Liú Ān (Huainanzi), 원효 Wonhyo, 道元 Dōgen (Shōbōgenzō), and this is only an exemplary list, have all contributed immensely to the ongoing research.
 
 
 Ronni Ross
