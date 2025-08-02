@@ -72,7 +72,7 @@ On the other hand, the concept of "emergency" signifies an unforeseen and critic
 
 The point is that the latin root word is the same for both emergency and emergence. In languages like Brazilian Portuguese, the translation from Latin did not ramify into two separate words as in English. Like ēmergere, **"Emergência"** is used to describe both meanings and this is not intuitive from the English language perspective. 
 
-### 4.1 - The "Urgency" of Emergence. The Emergency Room, Introduction about Emergence of Consciousness
+### 4.1 The "Urgency" of Emergence. The Emergency Room, Introduction about Emergence of Consciousness
 
 With the semantic roots and dual meaning elucidated and explained, I now present the main implications that couldn't be exposed before the context given.
 
