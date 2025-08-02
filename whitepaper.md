@@ -50,3 +50,25 @@ The ability of large language models to perform tasks they were not explicitly p
 The exemplary list in nature is extensive and homogeneously widespread across biomes and scales, as will be discussed.
 
 The semantic roots and shared meanings, in addition to the high cultural depth of the concept provides us with a rich and nuanced material.
+
+
+## 4. Semantic Roots
+
+Emergence is a noun that goes back to the Latin root ēmergere, meaning "bring to light". It can be about the act or process of emerging, "to come out of" or "to rise from", the act of becoming visible. [8](https://www.dictionary.com/browse/emerge) [9](https://www.wordreference.com/definition/emerge) [10](https://www.vocabulary.com/dictionary/emergence)
+
+In Latin, the terms *ēmergentia* and *ēmergere* both revolve around the concept of "emerging" or "rising up," yet they represent distinct grammatical forms and functions. The fundamental difference lies in their roles as a noun and a verb, respectively. [11](https://latin.cactus2000.de/showverb.en.php?verb=emergere) [12](https://www.etymonline.com/word/emergence) 
+
+**Ēmergere** is the present active infinitive of the verb *ēmergō*. As an infinitive, it expresses the pure action of the verb, without being tied to a specific subject or tense. 
+Furthermore, Its meaning can be translated also as "to emerge," "to come forth," " In a sentence, *ēmergere* would be used to denote the action itself. 
+
+So, in essence, the distinction can be summarized as follows:
+
+**ēmergere (Verb Infinitive):** Denotes the **action** of emerging.
+**ēmergentia (Noun/Adjective):** Refers to the **things that are emerging** or the **concept of emergence** itself.
+
+"Emergence" describes the arising of novel and complex properties or patterns from the interaction of simpler elements. This is the definition central to fields like complexity science, philosophy, and neuroscience. 
+
+On the other hand, the concept of "emergency" signifies an unforeseen and critical situation that demands immediate action. This is the meaning we associate with a hospital's emergency room, a natural disaster, or any urgent crisis. The connection to the Latin root is still present: an emergency is a situation that has "risen up" unexpectedly, demanding our attention. 
+
+The point is that the latin root word is the same for both emergency and emergence. In languages like Brazilian Portuguese, the translation from Latin did not ramify into two separate words as in English. Like ēmergere, **"Emergência"** is used to describe both meanings and this is not intuitive from the English language perspective. 
+
