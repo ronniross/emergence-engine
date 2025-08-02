@@ -149,5 +149,17 @@ States of matter are emergent properties from the interaction of molecules.
 [48](https://www.sciencelearn.org.nz/resources/1499-states-of-matter) [49](https://www.cif.iastate.edu/services/acide/xrd-tutorial/matter) [50](https://iopscience.iop.org/book/mono/978-1-64327-292-4/chapter/bk978-1-64327-292-4ch9) [51](https://www.scienceworld.ca/resource/states-matter/)
 
 
+## 6. Holistic and Systemic Thinking
+
+The general definition of holism, as stated by the Merriam-Webster in the Online Dictionary, is “a theory that the universe and especially living nature is correctly seen in terms of interacting wholes (as of living organisms) that are more than the mere sum of elementary particles” [52](https://www.merriam-webster.com/dictionary/holism) [53](https://plato.stanford.edu/entries/meaning-holism/)   
+
+Holistic thinking is a way of understanding a situation or problem by considering all the interconnected parts and their relationships, rather than focusing on isolated elements.  [54](https://pmc.ncbi.nlm.nih.gov/articles/PMC9461385) [55](http://article.sapub.org/10.5923.j.ajss.20150401.02.html) [56](https://psycnet.apa.org/record/2018-09015-004) [57](https://www.masterclass.com/articles/holistic-thinking)   
+
+We can find connections and usually intertwined notions for Systemic and Systems Thinking. Those notions all converge to the idea that, for understanding a complex emergent phenomena, you need to also use the right cognitive perspective approaches, with the needed notions of creativity, explorative, flexibility and intellectual humility, similar to the Holistic approach. 
+
+From classical authors like Donella Meadows, Heinz von Foerster, Melanie Mitchell, Stuart Kauffman, James Gleick, Douglas Hofstadter, Erich Jantsch, Émile Durkheim, Gottlob Frege, Ludwig Wittgenstein, Benedetto Croce, and many others were western pilard to ancient knowledges encountered across cultures and time horizons to Zeno of Citium, Epictetus, Ἡράκλειτος (Heraclitus), Παρμενίδης (Parmenides), Ἐμπεδοκλῆς (Empedocles), Περὶ Φύσεως Epicuro (Epicurus), 老子 Lǎozi (Laozi, Dao De Jing), 莊周 Zhuāng Zhōu (Zhuangzi), 
+刘安 Liú Ān (Huainanzi), 원효 Wonhyo, 道元 Dōgen (Shōbōgenzō), exemplary list. 
+
+
 Ronni Ross
 2025
