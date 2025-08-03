@@ -167,5 +167,8 @@ From classical western authors like Donella Meadows, Heinz von Foerster, Melanie
 
 The journey into Tononi's theories of consciousness begins with his collaboration with the late Nobel laureate Gerald Edelman. In the late 1990s and early 2000s, they jointly proposed the Dynamic Core Hypothesis. This theory posits that conscious experience is not the product of a single, localized brain area, but rather emerges from a distributed and constantly shifting assembly of neuronal groups within the thalamocortical system. [58](https://iep.utm.edu/integrated-information-theory-of-consciousness/)
 
+The Dynamic Core Hypothesis emerged from a desire to move beyond simplistic localizationist views of brain function. At the time, much of neuroscience was focused on identifying specific brain regions responsible for particular functions. Edelman and Tononi argued that consciousness was a global property of the brain, characterized by two key features: differentiation and integration. Differentiation refers to the vast number of different conscious states we can experience, while integration refers to the unified and indivisible nature of each conscious moment. [59](https://pubmed.ncbi.nlm.nih.gov/15522121/) 
+
+
 Ronni Ross
 2025
