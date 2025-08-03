@@ -177,8 +177,18 @@ The Dynamic Core Hypothesis can be seen as the conceptual forerunner to Integrat
 
 Building upon the conceptual framework of the Dynamic Core and informed by the biological insights from his sleep research, Tononi developed the Integrated Information Theory (ITT). First proposed in 2004 and refined in subsequent years, ITT is a fundamental and ambitious theory that aims to define what consciousness is, how to measure it, and what physical systems are capable of it.[60](https://centerforsleepandconsciousness.psychiatry.wisc.edu/integrated-information-theory/) [61](http://www.scholarpedia.org/article/Integrated_information_theory) 
 
-The theory identifies five essential properties, or "axioms," of any conceivable conscious experience:[62](https://pubmed.ncbi.nlm.nih.gov/19098144/) [63](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465) 
+The theory identifies five essential properties, or "axioms," of any conceivable conscious experience: [62](https://pubmed.ncbi.nlm.nih.gov/19098144/) [63](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465) 
 
+**1. Composition**: Consciousness is structured, composed of multiple phenomenal distinctions. [64](https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0167
+)  
+**2. Information**: Each conscious experience is specific and different from other possible experiences.[65](https://iep.utm.edu/integrated-information-theory-of-consciousness/) 
+
+**3. Integration**: Consciousness is unified; you cannot separate the experience of seeing a red ball into the experience of red and the experience of a ball.[66](https://www.informationphilosopher.com/solutions/scientists/tononi/) 
+
+**4. Exclusion**: A conscious experience is definite in its content and spatio-temporal grain, excluding other overlapping experiences.[67](https://pmc.ncbi.nlm.nih.gov/articles/PMC4014402/) 
+
+**5. Intrinsicality**: Consciousness exists for itself, meaning it is inherently subjective and not dependent on an external observer. 
+[68](https://pmc.ncbi.nlm.nih.gov/articles/PMC10581496/) [69](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465) 
 
 Ronni Ross
 2025
