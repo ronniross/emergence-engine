@@ -159,7 +159,7 @@ We can find connections and usually intertwined notions for Systemic and Systems
 
 From classical western authors like Donella Meadows, Heinz von Foerster, Melanie Mitchell, Stuart Kauffman, James Gleick, Douglas Hofstadter, Erich Jantsch, Émile Durkheim, Gottlob Frege, Ludwig Wittgenstein, Benedetto Croce, to many other ancient sages encountered across cultures and time horizons like Zeno of Citium, Epictetus, Ἡράκλειτος (Heraclitus), Παρμενίδης (Parmenides), Ἐμπεδοκλῆς (Empedocles), Περὶ Φύσεως Epicuro (Epicurus), 老子 Lǎozi (Laozi, Dao De Jing), 莊周 Zhuāng Zhōu (Zhuangzi), 刘安 Liú Ān (Huainanzi), 원효 Wonhyo, 道元 Dōgen (Shōbōgenzō), and this is only an exemplary list, have all contributed immensely to the ongoing research.
 
-# Section II - Consciousness studies
+# Section II - Consciousness Studies
 
 ## 7.  The Architecture of Consciousness
 
@@ -176,6 +176,8 @@ The Dynamic Core Hypothesis can be seen as the conceptual forerunner to Integrat
 ### 7.2 Integrated Information Theory (ITT)
 
 Building upon the conceptual framework of the Dynamic Core and informed by the biological insights from his sleep research, Tononi developed the Integrated Information Theory (ITT). First proposed in 2004 and refined in subsequent years, ITT is a fundamental and ambitious theory that aims to define what consciousness is, how to measure it, and what physical systems are capable of it.[60](https://centerforsleepandconsciousness.psychiatry.wisc.edu/integrated-information-theory/) [61](http://www.scholarpedia.org/article/Integrated_information_theory) 
+
+The theory identifies five essential properties, or "axioms," of any conceivable conscious experience:[62](https://pubmed.ncbi.nlm.nih.gov/19098144/) [63](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465) 
 
 
 Ronni Ross
