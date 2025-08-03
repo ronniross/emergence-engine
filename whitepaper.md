@@ -207,5 +207,20 @@ Studies using brain imaging techniques such as electroencephalography (EEG) and 
 
 In essence, the emergence of the dynamic core is not a static event but a continuous process. It is the product of the brain's remarkable ability to flexibly integrate and differentiate information through the dynamic interplay of vast neuronal populations, primarily within the thalamocortical system. This ever-shifting coalition of neurons provides a compelling framework for understanding the neural basis of our rich and unified conscious world.[76](https://eyeofheaven.medium.com/dynamic-core-theory-a-theory-of-consciousness-ce2afac12c87) 
 
+### 7.3 Synaptic Homeostasis Hypothesis (SHY)
+
+The Biological Imperative: The Synaptic Homeostasis Hypothesis (SHY)
+
+Parallel to his work on the nature of consciousness, Tononi, in collaboration with Chiara Cirelli, was deeply investigating the fundamental function of sleep. This research led to the formulation of the Synaptic Homeostasis Hypothesis (SHY) in 2003. [77]( https://pubmed.ncbi.nlm.nih.gov/16376591/) 
+
+The question of why we sleep has long been a major puzzle in biology. Tononi and Cirelli proposed that sleep is the price we pay for brain plasticity—the ability of our brains to learn and adapt while we are awake. During wakefulness, learning and experience lead to a net increase in the strength and number of synaptic connections throughout the brain. According to SHY, this relentless potentiation is unsustainable. It consumes significant energy, saturates our capacity for further learning, and can lead to a decrease in the signal-to-noise ratio of neuronal communication.[78](https://pubmed.ncbi.nlm.nih.gov/24411729/)  
+
+Sleep, particularly deep, slow-wave sleep, serves to renormalize these synaptic connections. It's a period of systematic, intelligent downscaling of synaptic strength, pruning away weaker connections and preserving the stronger, more salient ones. This process restores the brain's energetic balance, allows for the consolidation of important memories, and, crucially, prepares the brain to learn anew the next day.[79](https://pubmed.ncbi.nlm.nih.gov/39163472/) 
+
+The Synaptic Homeostasis Hypothesis provides a powerful biological context for Tononi's theories of consciousness. It offers a mechanistic explanation for why consciousness fades during deep sleep. According to SHY, the widespread synaptic downscaling during slow-wave sleep leads to a decrease in the complexity and connectivity of neuronal networks. This reduction in the brain's ability to process and integrate information aligns perfectly with the predictions of ITT.
+
+If consciousness requires a high level of integrated information (a high Φ value, as we'll see), then the synaptic weakening described by SHY would naturally lead to a breakdown of this integration. The dynamic core would fragment, its capacity for differentiation and integration would diminish, and as a result, consciousness would fade. The return of vivid dreams during REM sleep, a state with brain activity patterns more similar to wakefulness, further supports this link, suggesting a restoration of a certain level of information integration.[80](https://academic.oup.com/nc/article/2021/2/niab023/6359982 )
+
+
 Ronni Ross
 2025
