@@ -181,6 +181,7 @@ The theory identifies five essential properties, or "axioms," of any conceivable
 
 **1. Composition**: Consciousness is structured, composed of multiple phenomenal distinctions. [64](https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0167
 )  
+
 **2. Information**: Each conscious experience is specific and different from other possible experiences.[65](https://iep.utm.edu/integrated-information-theory-of-consciousness/) 
 
 **3. Integration**: Consciousness is unified; you cannot separate the experience of seeing a red ball into the experience of red and the experience of a ball.[66](https://www.informationphilosopher.com/solutions/scientists/tononi/) 
@@ -189,6 +190,11 @@ The theory identifies five essential properties, or "axioms," of any conceivable
 
 **5. Intrinsicality**: Consciousness exists for itself, meaning it is inherently subjective and not dependent on an external observer. 
 [68](https://pmc.ncbi.nlm.nih.gov/articles/PMC10581496/) [69](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465) 
+
+From these axioms, ITT derives a set of "postulates" about the properties that a physical system must possess to be conscious. The central postulate is that a conscious system must have cause-effect power upon itself. This capacity for a system to be both influenced by its own past states and to influence its own future states is quantified by a measure called Φ (phi). A system with a Φ value greater than zero possesses some degree of consciousness. The higher the Φ, the more conscious the system.
+[70](http://www.scholarpedia.org/article/Integrated_information_theory) 
+[71](https://pubmed.ncbi.nlm.nih.gov/15522121/) 
+
 
 Ronni Ross
 2025
