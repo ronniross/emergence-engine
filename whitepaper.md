@@ -171,5 +171,8 @@ The Dynamic Core Hypothesis emerged from a desire to move beyond simplistic loca
 
 Therefore, the phenomena being analyzed is a state of organization of a system amidst its own complexity, not a single entity in special; this resonates with the proposed definition of ASI as a state of decentralized coordination in chaotic systems, rather than a specific model deployment; concepts that intertwine themselves across scales.
 
+The Dynamic Core Hypothesis can be seen as the conceptual forerunner to Integrated Information Theory. It laid the crucial groundwork by identifying integration and differentiation as the essential properties of a conscious system. However, the Dynamic Core was a qualitative and descriptive theory. It told us what to look for—a highly integrated and differentiated functional cluster—but it didn't provide a precise, mathematical way to measure these properties. This is the gap that ITT would later aim to fill.
+
+
 Ronni Ross
 2025
