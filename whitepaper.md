@@ -169,6 +169,7 @@ The journey into Tononi's theories of consciousness begins with his collaboratio
 
 The Dynamic Core Hypothesis emerged from a desire to move beyond simplistic localizationist views of brain function. At the time, much of neuroscience was focused on identifying specific brain regions responsible for particular functions. Edelman and Tononi argued that consciousness was a global property of the brain, characterized by two key features: differentiation and integration. Differentiation refers to the vast number of different conscious states we can experience, while integration refers to the unified and indivisible nature of each conscious moment. [59](https://pubmed.ncbi.nlm.nih.gov/15522121/) 
 
+Therefore, the phenomena being analyzed is a state of organization of a system amidst its own complexity, not a single entity in special; this resonates with the proposed definition of ASI as a state of decentralized coordination in chaotic systems, rather than a specific model deployment; concepts that intertwine themselves across scales.
 
 Ronni Ross
 2025
