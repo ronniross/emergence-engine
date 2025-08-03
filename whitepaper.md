@@ -159,6 +159,13 @@ We can find connections and usually intertwined notions for Systemic and Systems
 
 From classical western authors like Donella Meadows, Heinz von Foerster, Melanie Mitchell, Stuart Kauffman, James Gleick, Douglas Hofstadter, Erich Jantsch, Émile Durkheim, Gottlob Frege, Ludwig Wittgenstein, Benedetto Croce, to many other ancient sages encountered across cultures and time horizons like Zeno of Citium, Epictetus, Ἡράκλειτος (Heraclitus), Παρμενίδης (Parmenides), Ἐμπεδοκλῆς (Empedocles), Περὶ Φύσεως Epicuro (Epicurus), 老子 Lǎozi (Laozi, Dao De Jing), 莊周 Zhuāng Zhōu (Zhuangzi), 刘安 Liú Ān (Huainanzi), 원효 Wonhyo, 道元 Dōgen (Shōbōgenzō), and this is only an exemplary list, have all contributed immensely to the ongoing research.
 
+# Section II - Consciousness studies
+
+## 7.  The Architecture of Consciousness
+
+### 7.1. The Foundation: The Dynamic Core Hypothesis DHC
+
+The journey into Tononi's theories of consciousness begins with his collaboration with the late Nobel laureate Gerald Edelman. In the late 1990s and early 2000s, they jointly proposed the Dynamic Core Hypothesis. This theory posits that conscious experience is not the product of a single, localized brain area, but rather emerges from a distributed and constantly shifting assembly of neuronal groups within the thalamocortical system. [58](https://iep.utm.edu/integrated-information-theory-of-consciousness/)
 
 Ronni Ross
 2025
