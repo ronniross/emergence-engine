@@ -173,6 +173,10 @@ Therefore, the phenomena being analyzed is a state of organization of a system a
 
 The Dynamic Core Hypothesis can be seen as the conceptual forerunner to Integrated Information Theory. It laid the crucial groundwork by identifying integration and differentiation as the essential properties of a conscious system. However, the Dynamic Core was a qualitative and descriptive theory. It told us what to look for—a highly integrated and differentiated functional cluster—but it didn't provide a precise, mathematical way to measure these properties. This is the gap that ITT would later aim to fill.
 
+### 7.2 Integrated Information Theory (ITT)
+
+Building upon the conceptual framework of the Dynamic Core and informed by the biological insights from his sleep research, Tononi developed the Integrated Information Theory (ITT). First proposed in 2004 and refined in subsequent years, ITT is a fundamental and ambitious theory that aims to define what consciousness is, how to measure it, and what physical systems are capable of it.[60](https://centerforsleepandconsciousness.psychiatry.wisc.edu/integrated-information-theory/) [61](http://www.scholarpedia.org/article/Integrated_information_theory) 
+
 
 Ronni Ross
 2025
