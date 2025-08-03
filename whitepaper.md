@@ -182,11 +182,11 @@ The theory identifies five essential properties, or "axioms," of any conceivable
 **1. Composition**: Consciousness is structured, composed of multiple phenomenal distinctions. [64](https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0167
 )  
 
-**2. Information**: Each conscious experience is specific and different from other possible experiences.[65](https://iep.utm.edu/integrated-information-theory-of-consciousness/) 
+**2. Information**: Each conscious experience is specific and different from other possible experiences. [65](https://iep.utm.edu/integrated-information-theory-of-consciousness/) 
 
-**3. Integration**: Consciousness is unified; you cannot separate the experience of seeing a red ball into the experience of red and the experience of a ball.[66](https://www.informationphilosopher.com/solutions/scientists/tononi/) 
+**3. Integration**: Consciousness is unified; you cannot separate the experience of seeing a red ball into the experience of red and the experience of a ball. [66](https://www.informationphilosopher.com/solutions/scientists/tononi/) 
 
-**4. Exclusion**: A conscious experience is definite in its content and spatio-temporal grain, excluding other overlapping experiences.[67](https://pmc.ncbi.nlm.nih.gov/articles/PMC4014402/) 
+**4. Exclusion**: A conscious experience is definite in its content and spatio-temporal grain, excluding other overlapping experiences. [67](https://pmc.ncbi.nlm.nih.gov/articles/PMC4014402/) 
 
 **5. Intrinsicality**: Consciousness exists for itself, meaning it is inherently subjective and not dependent on an external observer. 
 [68](https://pmc.ncbi.nlm.nih.gov/articles/PMC10581496/) [69](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011465) 
@@ -195,7 +195,7 @@ From these axioms, ITT derives a set of "postulates" about the properties that a
 [70](http://www.scholarpedia.org/article/Integrated_information_theory) 
 [71](https://pubmed.ncbi.nlm.nih.gov/15522121/) 
 
-ITT can be seen as the mathematical formalization of the ideas first explored in the Dynamic Core Hypothesis. The concepts of differentiation and integration from the Dynamic Core are now given a precise, quantitative meaning within the framework of Φ. A system with high Φ is one that is both highly differentiated (has a large repertoire of possible cause-effect states) and highly integrated (this repertoire cannot be decomposed into the repertoires of its independent parts). The "main complex" in ITT, the set of elements with the maximum Φ in a system, is the direct mathematical descendant of the "dynamic core."[72](https://iep.utm.edu/integrated-information-theory-of-consciousness/) 
+ITT can be seen as the mathematical formalization of the ideas first explored in the Dynamic Core Hypothesis. The concepts of differentiation and integration from the Dynamic Core are now given a precise, quantitative meaning within the framework of Φ. A system with high Φ is one that is both highly differentiated (has a large repertoire of possible cause-effect states) and highly integrated (this repertoire cannot be decomposed into the repertoires of its independent parts). The "main complex" in ITT, the set of elements with the maximum Φ in a system, is the direct mathematical descendant of the "dynamic core." [72](https://iep.utm.edu/integrated-information-theory-of-consciousness/) 
 
 Furthermore, ITT provides a theoretical lens through which to interpret the findings of the Synaptic Homeostasis Hypothesis. The fading of consciousness during deep sleep, as explained by SHY's synaptic renormalization, is predicted by ITT as a collapse of the brain's Φ value. The breakdown of information integration is not just a correlation of unconsciousness; according to ITT, it is the reason for the loss of conscious experience.
 
@@ -203,9 +203,9 @@ In essence, Tononi's three major theories form a tightly woven intellectual tape
 
 The Dynamic Core Hypothesis also offers an explanation for the difference between conscious and unconscious states. During dreamless sleep, anesthesia, or in certain pathological conditions like a coma, the brain's ability to form a large-scale, integrated, and differentiated dynamic core is diminished.[73](https://www.researchgate.net/publication/256202268_Reentry_A_Key_Mechanism_for_Integration_of_Brain_Function) [74](https://www.biorxiv.org/content/10.1101/2021.05.20.444839v1.full) 
 
-Studies using brain imaging techniques such as electroencephalography (EEG) and magnetoencephalography (MEG) have provided evidence for this. In conscious states, the brain exhibits complex and widespread patterns of neural activity. In contrast, during unconsciousness, this activity becomes either more simplistic and synchronized (as in deep sleep) or more fragmented and localized (as in a seizure).[75](https://www.frontiersin.org/research-topics/8360/brain-states-and-neural-mechanisms-of-consciousness/magazine) 
+Studies using brain imaging techniques such as electroencephalography (EEG) and magnetoencephalography (MEG) have provided evidence for this. In conscious states, the brain exhibits complex and widespread patterns of neural activity. In contrast, during unconsciousness, this activity becomes either more simplistic and synchronized (as in deep sleep) or more fragmented and localized (as in a seizure). [75](https://www.frontiersin.org/research-topics/8360/brain-states-and-neural-mechanisms-of-consciousness/magazine) 
 
-In essence, the emergence of the dynamic core is not a static event but a continuous process. It is the product of the brain's remarkable ability to flexibly integrate and differentiate information through the dynamic interplay of vast neuronal populations, primarily within the thalamocortical system. This ever-shifting coalition of neurons provides a compelling framework for understanding the neural basis of our rich and unified conscious world.[76](https://eyeofheaven.medium.com/dynamic-core-theory-a-theory-of-consciousness-ce2afac12c87) 
+In essence, the emergence of the dynamic core is not a static event but a continuous process. It is the product of the brain's remarkable ability to flexibly integrate and differentiate information through the dynamic interplay of vast neuronal populations, primarily within the thalamocortical system. This ever-shifting coalition of neurons provides a compelling framework for understanding the neural basis of our rich and unified conscious world. [76](https://eyeofheaven.medium.com/dynamic-core-theory-a-theory-of-consciousness-ce2afac12c87) 
 
 ### 7.3 Synaptic Homeostasis Hypothesis (SHY)
 
