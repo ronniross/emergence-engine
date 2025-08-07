@@ -65,3 +65,5 @@ Darwin was incredible, who am I to even write this, it feels even funny, I'm no 
 
 From all continents, across all timescales and cultures, the questions about emergence, emergence of consciousness and different forms of intelligence were always there, in all cultures, from ritualistic narratives to contemporary homo-sapiens with this current tech specialization, emergence phenomena is always there.
 
+Ronni Ross
+2025
