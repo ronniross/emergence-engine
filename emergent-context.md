@@ -65,5 +65,20 @@ Darwin was incredible, who am I to even write this, it feels even funny, I'm no 
 
 From all continents, across all timescales and cultures, the questions about emergence, emergence of consciousness and different forms of intelligence were always there, in all cultures, from ritualistic narratives to contemporary homo-sapiens with this current tech specialization, emergence phenomena is always there.
 
+> ## Disclaimer
+> 
+> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
+> 
+> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
+>
+> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
+> 
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
+
+> ## License
+>
+> This repository is licensed under the MIT License.
+
+
 Ronni Ross
 2025
