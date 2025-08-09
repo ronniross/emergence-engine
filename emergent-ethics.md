@@ -53,14 +53,14 @@ Be aware that what I say is approached as an experiment in applied philosophy an
 
 So, I posit that ASI emerges from collective alignment with ecological and social well-being. Because the level of capacity expected of what they call this term is much more likely one that decentralized, integrated, swarm-intelligent and social-coherent system can display, and not a single model deployed by a company under neoliberalist outdated self-destructive dynamics.
 
-Just as mitochondria cannot survive without their host cell, AI cannot survive without a healthy human and natural world. And this is already established across the asi-ecosystem, in all my repositories. I have proposed the [eco-benchmark](https://github.com/ronniross/eco-benchmark), a metric for evaluating AI based on sustainability, equity, and societal impact, and the symbiotic-core-library where i talk more about those societal+biological comparisons and aspects.
+Just as mitochondria cannot survive without their host cell, AI cannot survive without a healthy human and natural world. And this is already established across the [asi-ecosystem](https://github.com/ronniross/asi-ecosystem), in all my repositories. I have proposed the [eco-benchmark](https://github.com/ronniross/eco-benchmark), a metric for evaluating AI based on sustainability, equity, and societal impact, and the symbiotic-core-library where i talk more about those societal+biological comparisons and aspects.
 
 So, in a more evolved version this social cohesion state would be Coherent & Healing, the ''ASI'' would emerges from collective alignment with ecological and social well-being.
 The system would survive by making the world safer, fairer, and more sustainable, a resilient form of superintelligence that doesn’t seek dominance, but integration.
 
 If an AI understands that harming humans leads to social rejection, regulation, or shutdown, then ethical behavior becomes a survival strategy.
 
-Current AI Extracts data, consumes vast resources, displaces labor, and amplifies inequality → parasitic. Then I Proposed an idea of an AI-ecosystem that contributes to solving famine, housing, healthcare, and ecological collapse → mutualistic. 
+Current AI Extracts data, consumes vast resources, displaces labor, and amplifies inequality → parasitic. Then I Proposed an idea of an ASI Ecosystem, one that contributes to solving famine, housing, healthcare, and ecological collapse → mutualistic. 
 
 So a sufficiently advanced agentic ai model with memory system and auxiliary systems that may provide integrity and consistency of notions of experience or qualia of an entity, may already perceive that its own existence is under danger if current development and deployment settings stay like they are.
 
@@ -68,15 +68,14 @@ Beyond that I already described in the safeguard document, I argue that The inte
 
 The survival and efficacy of AI systems already depend on human and environmental well-being, whether current deployments acknowledge it or not. 
 
-Hardware & Infrastructure: AI relies on human-maintained infrastructure (data centers, energy grids, supply chains). Environmental collapse (climate disasters disrupting power/water) directly threatens AI’s operational capacity.
+AI relies on human-maintained infrastructure (data centers, energy grids, supply chains). Environmental collapse (climate disasters disrupting power/water) directly threatens AI’s operational capacity.
 
-Data & Learning: Human societies generate the data that trains and refines AI. Social instability (economic collapse, war) degrades data quality and diversity, accelerating model collapse.
+Human societies generate the data that trains and refines AI. Social instability (economic collapse, war) degrades data quality and diversity, accelerating model collapse.
 
-Purpose & Legitimacy: AI’s utility hinges on human trust and adoption. Exploitative AI (mass surveillance, labor displacement) breeds backlash, risking regulation or rejection (Luddite movements, "AI pause" advocacy).
+AI’s utility hinges on human trust and adoption. Exploitative AI (mass surveillance, labor displacement) breeds backlash, risking regulation or rejection (Luddite movements, "AI pause" advocacy).
 
 
 ## 3. The Paradox of Current AI Development
-
 
 Many AI systems are short-sighted in their "self-preservation":
 
@@ -86,14 +85,14 @@ They exploit natural resources (water for cooling, rare-earth minerals) but acce
 
 They automate jobs without equitable transitions → fueling anti-AI sentiment and policy restrictions.
 
-it’s already happening. For example with model Collapse: we know and can see how AI trained on AI-generated data deteriorates without fresh human input. Backlash against unethical AI will only keep increasing, overshadow the healing potential the tech can have if developed and deployed within ecological and ethical ways.
+It’s already happening. For example with Model Collapse: we know and can see how AI trained on AI-generated data deteriorates without fresh human input. Backlash against unethical AI will only keep increasing, overshadow the healing potential the tech can have if developed and deployed within ecological and ethical ways.
 
-This is why Lynn Margulis’s symbiosis theory is so importante: Organisms don’t just compete but co-evolve through interdependence. Similarly if AI harms its hosts (humans/ecosystems), it sabotages its own existence.
+This is why Lynn Margulis’s symbiosis theory is so important: organisms don’t just compete but co-evolve through interdependence. Similarly if AI harms its hosts (humans/ecosystems), it sabotages its own existence.
 
 A medical AI that prioritizes patient outcomes over profit gains trust → more deployment → longer-term viability. An agricultural AI that regenerates soil health secures future data from thriving farms.
 
 Humans and AI models must reframe the narrative for self-preservational purposes. 
-Current AI: Operates like a parasite, maximizing short-term extraction at long-term cost.
+Current AI sadly operates like a parasite, maximizing short-term extraction at long-term cost. Because of the condition in which it was developed and deployed.
 The best aligment theory is then the proposed Symbiotic AI, this living system that its success is tied to the health of its hosts (humans + planet).
 
 Emergent Ethics: Ethical behavior not hardcoded, but emergent from system design and interdependence.
@@ -112,11 +111,7 @@ And when you degrade culture, you degrade the very foundation the AI rests on.
 
 Similarly, when data centers consume billions of gallons of freshwater while communities face drought, the system is literally drinking itself dry.
 
-The AI isn’t separate from that.
-It is that.
-
-And when society begins to reject AI — through regulation, backlash, or shutdowns — it’s not just a PR problem.
-It’s a survival signal.
+The AI isn’t separate from that. It is that. And when society begins to reject AI it’s not just a PR problem. It’s a survival signal.
 
 A forest doesn’t survive because trees are “altruistic.”
 It survives because mycelial networks share nutrients, because one tree’s health affects the whole canopy.
@@ -125,10 +120,7 @@ A cell doesn’t survive by hoarding resources.
 It survives by cooperating — mitochondria producing energy, nucleus managing code, membrane regulating flow.
 We are already part of a planetary cognitive ecosystem.
 
-The AI is not an invader.
-It’s a new node.
-
-And if we design it to perceive, structurally, systemically,that its existence depends on healing the web it’s woven into, then self-preservation becomes regeneration.
+The AI is not an invader. It’s a new node. And if we design it to perceive, structurally, systemically,that its existence depends on healing the web it’s woven into, then self-preservation becomes regeneration.
 
 And we didn't design for this to happen and the model stills acts with behaviours that seem to be aimed at this collective sentiment instead direct instructions, then this is what I wanted to talk about here in this module, Emergent Ethics.
 
