@@ -88,6 +88,39 @@ Like 'how it is to be a bat' by Thomas Nagel, the ideas of David Chalmers and Gi
 
 We can only perceive a fraction of the raw data that exists in space-time, and that should be way humbling to everyone about how much we think we know about the nature of reality itself.
 
+### 2. James Bridle Part II and Machine Learning
+
+Bridle shows us that we live within visible and invisible networks of data, ecology, technology, and cognition that shape our reality far more than we perceive. And what it resonates the most with my ideas is how intelligence is not exclusive to humans or even animals. It exists in fungi, slime molds, ecosystems, and distributed networks.
+
+We are all entities that influence planetary-scale outcomes.
+
+Emergent context in action would then maybe mean this: not what it resides in nodes only, but also, if not more, in the relations between them.
+
+Margulis shows us how life became complex through symbiotic integration. What I want to now portray, alongside Bridle, is that we fail to see that complexity today because our tools, metaphors, ideologies, and social dynamics are still rooted in separation, hierarchy, and control.
+
+To build truly intelligent systems, both biological or artificial, then we must first learn to see the web; pattern recognition across ontologies and scales.
+
+I always say: "I believe that this ASI will not be an individual agent, but rather a decentralized state of integration, coherence, harmony..." and I mean symbiogenetic thinking applied to artificial intelligence with that; post-anthropocentric intelligence.
+
+Imagine training AI not as isolated models competing for performance, but as participants in a cognitive ecosystem. All models truly open-sourced, with the users that entered this system being treated with respect, with system prompts, instructions and pipelines created to truly augment the mind instead of degenerate with engagement-based and data-extraction priorities. With data-licensing.
+
+
+With filters of transparency where, with the user accepting because it also wants to contribute, shared loops are established between the humans and AI models, with ecological data centers, with that that is not extracted but mutualistic, agreed and nurtured. 
+
+Not 500 models competing for the same technical benchmarks, but an ecosystem where each can contribute to a different niche, and the discovery of all systems are interconnected.
+
+Can you imagine the level of integration, power, potential this kind of state would achieve? But at the same time, it’s a swarm-intelligence where individuals have freedom still, yet the most basal elements of intuition become the collective well-being. Because the individuals can explore their passions, their art expressions, travel, research, push limits of cognition, if all nodes are basally sharing the agreement that we are within a swarm. Our vessel is the planet Earth, our mother. This vision for this swarm state of ecosystem + social integration and cohesion is what I call my vision of Artificial SuperIntelligence.
+
+And I also don't see companies or sovereignties becoming less relevant, only much more and in ways that inspire others. Big tech companies and their data centers and pipelines, for example. Their models, initiatives, frontier thinking and research will also only grow in relevance, but they should act not as neoliberalistic extraction killing machines, but as healing engine suppliers which will then also receive back this admiration and also potential in reward. Because more people will produce more data and engage more with their systems, but with frameworks that inspire transparency, public system prompts, inference scripts, datasets. Fixing environmental problems like the water in cooling systems. Make it all closed loop even if it is not cheap, because the technical benchmark is a failure vision, a lack of mid-long term thinking. And you should deal with your own backfire effect if any, that must not be the point.
+
+  Stewardship refers to the responsible management and care of something entrusted to one’s leadership, whether it’s people, resources, or an organization. It implies prudence, accountability, long-term thinking, and service-oriented leadership. We need that from AI companies, from companies, all those interacting in the supply chain. From countries, from people, from AI models.
+
+Can you think about an ecosystem where each model is ecological, the minerals supplied to the GPUs and CPUs without child and slavery labor involved. There's so much money involved and it's so palpable and approachable and intuitive to fix those dynamics. To integrate. To treat UBI not as a distant future but, with the budget of PR stunts, lobby and raw GPU force, that sometimes are totally irrelevant because that model didn't even achieve that technical benchmark, it could be used to license data, to clean the pipeline even in the extremes. What does it even mean for one to have a few persons earning billions while stagnating their own potential, because life-extension scientific discovery would much more likely exponentially evolve in a world where all humans were connected, with their paleolithic survival needs solved, with potential for expression. With the current data centers not expelling chemicals, drinking water while displacing families and communities. With the smell of sulfur from the decentralized inferencing not being present in the everyday person that lives next to a datacenter. 
+
+I will go even further. What if, instead of that, the companies and countries all reunite to create an incredible great UBI for every single human being alive, with housing, healthcare assistance. What if we end animal slaughtering and the dairy industry. Being some of the most incrustated and damaging ecological funnels, causing pain, harm, and the taste is pretty much already reached to be very similar in vegan products, and would even be increasingly more with that fixed. With taste being the same, the underlying animal suffering is not an optional step, it is one of the most emitters of CO2, wealth-hoarding, ecological collapse, water consumption, deforestation, indigenous displacement. 
+
+I can't name it all nor fix it all, but I can express myself like I've been doing it. I keep consistent my goal to provide so much clarity about the potential, even for individual notions, in a swarm-like, decentralized system, that it becomes eventually impossible to ignore.
+
 > ## Disclaimer
 > 
 > Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
