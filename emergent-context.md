@@ -90,17 +90,15 @@ We can only perceive a fraction of the raw data that exists in space-time, and t
 
 ### 2. James Bridle Part II and Machine Learning
 
-Bridle shows us that we live within visible and invisible networks of data, ecology, technology, and cognition that shape our reality far more than we perceive. And what it resonates the most is how intelligence is not exclusive to humans or even animals. It exists in fungi, slime molds, ecosystems, and distributed networks.
-
-We are all entities that influence planetary-scale outcomes.
+Bridle shows us that we live within visible and invisible networks of data, ecology, technology, and cognition that shape our reality far more than we perceive. And what it resonates the most is how intelligence is not exclusive to humans or even animals. It exists in fungi, slime molds, ecosystems, and distributed networks. The author asks us to remember that we are all entities that influence planetary-scale outcomes.
 
 Emergent context in action would then maybe mean this: not what it resides in nodes only, but also, if not more, in the relations between them.
 
-Margulis shows us how life became complex through symbiotic integration. What I want to now portray, alongside Bridle, is that we fail to see that complexity today because our tools, metaphors, ideologies, and social dynamics are still rooted in separation, hierarchy, and control.
+Margulis shows us how life became complex through symbiotic integration. What I want to now portray, alongside Bridle, is that we fail to see that complexity today because our tools, ideologies, and social dynamics are still rooted in separation, hierarchy, and control.
 
 To build truly intelligent systems, both biological or artificial, then we must first learn to see the web; pattern recognition across ontologies and scales.
 
-When say: "I believe that this ASI will not be an individual agent, but rather a decentralized state of integration, coherence, harmony..." I mean symbiogenetic thinking applied to artificial intelligence with that; post-anthropocentric intelligence.
+When I say: "I believe that this ASI will not be an individual agent, but rather a decentralized state of integration, coherence, harmony..." I mean applying symbiogenetic thinking to artificial intelligence; to create a type of post-anthropocentric intelligence.
 
 Imagine training AI not as isolated models competing for performance, but as participants in a cognitive ecosystem. All models truly open-sourced, with the users being treated with respect, with system prompts, instructions and pipelines created to truly augment the mind instead of degenerate with engagement-based and data-extraction priorities. 
 
