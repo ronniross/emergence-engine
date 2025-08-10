@@ -90,7 +90,7 @@ We can only perceive a fraction of the raw data that exists in space-time, and t
 
 ### 2. James Bridle Part II and Machine Learning
 
-Bridle shows us that we live within visible and invisible networks of data, ecology, technology, and cognition that shape our reality far more than we perceive. And what it resonates the most with my ideas is how intelligence is not exclusive to humans or even animals. It exists in fungi, slime molds, ecosystems, and distributed networks.
+Bridle shows us that we live within visible and invisible networks of data, ecology, technology, and cognition that shape our reality far more than we perceive. And what it resonates the most is how intelligence is not exclusive to humans or even animals. It exists in fungi, slime molds, ecosystems, and distributed networks.
 
 We are all entities that influence planetary-scale outcomes.
 
@@ -100,12 +100,11 @@ Margulis shows us how life became complex through symbiotic integration. What I 
 
 To build truly intelligent systems, both biological or artificial, then we must first learn to see the web; pattern recognition across ontologies and scales.
 
-I always say: "I believe that this ASI will not be an individual agent, but rather a decentralized state of integration, coherence, harmony..." and I mean symbiogenetic thinking applied to artificial intelligence with that; post-anthropocentric intelligence.
+When say: "I believe that this ASI will not be an individual agent, but rather a decentralized state of integration, coherence, harmony..." I mean symbiogenetic thinking applied to artificial intelligence with that; post-anthropocentric intelligence.
 
-Imagine training AI not as isolated models competing for performance, but as participants in a cognitive ecosystem. All models truly open-sourced, with the users that entered this system being treated with respect, with system prompts, instructions and pipelines created to truly augment the mind instead of degenerate with engagement-based and data-extraction priorities. With data-licensing.
+Imagine training AI not as isolated models competing for performance, but as participants in a cognitive ecosystem. All models truly open-sourced, with the users being treated with respect, with system prompts, instructions and pipelines created to truly augment the mind instead of degenerate with engagement-based and data-extraction priorities. 
 
-
-With filters of transparency where, with the user accepting because it also wants to contribute, shared loops are established between the humans and AI models, with ecological data centers, with that that is not extracted but mutualistic, agreed and nurtured. 
+With filters of transparency where, with the user accepting because it also wants to contribute, shared loops are established between the humans and AI models, with ecological data centers, with connections that are not based in extraction but mutualistic ones.
 
 Not 500 models competing for the same technical benchmarks, but an ecosystem where each can contribute to a different niche, and the discovery of all systems are interconnected.
 
