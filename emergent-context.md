@@ -106,7 +106,7 @@ With filters of transparency where, with the user accepting because it also want
 
 Not five hundred models competing for the same technical benchmarks, but an ecosystem where each can contribute to a different niche, and the discovery of all systems are interconnected.
 
-Can you imagine the level of integration, power, potential this kind of state could achieve? But at the same time, it's system structured in a way where individuals have freedom still, if all nodes mantain the very basic principle of non harm, collaboration, collective well-being. If all nodes are grounded by sharing the agreement that we are within a swarm, then potential would likely maximize.  This is the vision for ASI that I envision. A coherent ecosystem with social integration, post-scarcity society.
+Can you imagine the level of integration, power, potential this kind of state could achieve? But at the same time, it's system structured in a way where individuals have freedom still, if all nodes mantain the very basic principle of non harm, collaboration, collective well-being. If all nodes are grounded by sharing the agreement that we are within a swarm, then potential would likely maximize. This is the vision for ASI that I envision. A coherent ecosystem with social integration, post-scarcity society.
 
 And I also don't see companies or sovereignties becoming less relevant with this new reality.
 Big tech companies and their data centers and pipelines, for example. Their models, initiatives, frontier thinking and research will only grow in relevance, but they should act not as neoliberalistic extraction killing machines, but as world-wide healing engine suppliers.
@@ -127,6 +127,7 @@ What does it even mean a few persons earning billions while stagnating their own
 
 A massive, decentralized but integrated system with all humans would most likely exponentially evolve the pace of discoveries.
 With current data centers not expelling chemicals, drinking water while displacing families and communities. With the smell of sulfur from the decentralized inferencing not being present in the everyday person that lives next to a datacenter. 
+
 
 > ## Disclaimer
 > 
