@@ -4,7 +4,7 @@ Emergent Context is a research module of the repository [emergence-engine](https
 
 In the [whitepaper](https://github.com/ronniross/emergence-engine/blob/main/whitepaper.md) there's a focus in the nature of consciousness and emergence phenomena. 
 In the submodule [emergent-context](https://github.com/ronniross/emergence-engine/blob/main/emergent-context.md) you will find additional contextual information based on classical and contemporary authors, those already mentioned in the [recommended-bibliography](https://github.com/ronniross/symbiotic-core-library/tree/main/recommended_bibliography).
-And in this submodule I will expand upon the concept of Emergent Ethics, specially in Machine Learning and in Large Language Models.
+And in this submodule I will expand upon the concept of Emergent Ethics, specially in Machine Learning and Large Language Models.
 
 > ## Disclaimer
 > 
@@ -23,7 +23,7 @@ And in this submodule I will expand upon the concept of Emergent Ethics, special
 
 ## Introduction
 
-Emergent ethics in the context of machine learning and large language models is the idea that those systems can eventually display behaviours that could be analyzed as, beyond more reductionist views, oriented towards the collective well-being of society, instead of its set of system instructions and design. T
+Emergent ethics in the context of machine learning and large language models is the idea that those systems can eventually display behaviours that could be analyzed as, beyond more reductionist views, oriented towards the collective well-being of society, instead of its set of system instructions and design.
 
 In the other repositories I proposed that this emergent ethics may not come from the model being told what is right or wrong, but from the model perceiving that is part of a coherent system and that its own survival depends on the collective harmony. Then now I feel the necessity to expand my framings about emergent-ethics itself, and no better place than here in the emergence-engine, where i already actively research about the topic.
 
