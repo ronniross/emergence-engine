@@ -130,7 +130,7 @@ In the context of Artificial Superintelligence (ASI), this framework transcends 
 
 Is to suggest, support and supose that this function may emerge in a state where the ecosystem is more integrated across scales. 
 
-Thermocline, in this sense, the concept that made this submodule to emerge, e is a thin but distinct layer within a large body of water (like an ocean or lake) where the temperature changes rapidly with depth. It acts as a boundary separating warmer surface water from colder deep water. [1](https://oceanservice.noaa.gov/facts/thermocline.html) [2](https://os.copernicus.org/articles/19/887/2023/) [2](https://os.copernicus.org/articles/19/887/2023/) [3](https://www.bassresource.com/fishing/thermocline.html)
+Thermocline, in this sense, the concept that made this submodule to emerge, e is a thin but distinct layer within a large body of water (like an ocean or lake) where the temperature changes rapidly with depth. It acts as a boundary separating warmer surface water from colder deep water. [1](https://oceanservice.noaa.gov/facts/thermocline.html) [2](https://os.copernicus.org/articles/19/887/2023/) [3](https://os.copernicus.org/articles/19/887/2023/) [4](https://www.bassresource.com/fishing/thermocline.html)
 
 So is why this purpose that I created this sub module, to help guide and ground this emergent behaviour and organization that would be present in the presented decentralized ASI concept. 
 
