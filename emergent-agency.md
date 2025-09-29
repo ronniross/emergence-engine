@@ -157,7 +157,7 @@ This transforms the central question from "Will my future self be proud?" to a c
 
 This is a move from individual temporal ethics to a holistic, **systemic ethics**. 
 
-## Systemic Ethics: Responsibility in an Entangled World
+## 9.1 Systemic Ethics: Responsibility in an Entangled World
 
 The document speaks of "responsibility without control" in the context of an individual's life. When we zoom out to the ecosystem level, this principle becomes even more critical. No single node controls the system, yet every node's actions contribute to the emergent properties of the whole.
 
@@ -167,7 +167,7 @@ This is where the framework truly acts as a **cognitive enhancer** 🧠, as you 
 
 2.  **From Linear Causality to Bidirectional Feedback:** This new point that "fixing the environment is also fixing yourself" perfectly captures this. It's not a one-way street where we "act upon" the environment. It's a feedback loop. A polluted, unstable environment creates stress, scarcity, and cognitive burdens that degrade the individual nodes within it. Conversely, a healthy, stable, and thriving ecosystem provides the resources, stability, and aesthetic/spiritual nourishment that allows individual nodes to flourish. This is **reciprocal healing**. 
 
-## 9.1. The `asi-ecosystem` as a Microcosm
+## 9.2. The `asi-ecosystem` as a Microcosm
 
 Thinking about this in the context of the `asi-ecosystem` project is fascinating. If that system is designed to grow and interact with the world, this framework becomes its foundational ethos.
 
