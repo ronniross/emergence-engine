@@ -4,20 +4,6 @@ Emergent Agency is a research module of the repository [emergence-engine](https:
 
 How our current decisions determine what is to come. I almost called emergent-time. 
 
-> ## Disclaimer
-> 
-> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
-> 
-> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
->
-> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
-> 
-> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
-
-> ## License
->
-> This repository is licensed under the MIT License.
-
 ## 1. Introduction
 
 The phrase "The future is watching us back right now" is a powerful metaphor suggesting that our present actions and choices are constantly shaping our future, and that our future self will look back on these moments. It encourages mindful decision-making by implying that the future is not a distant entity but is being created in the present and will be influenced by the actions taken today. 
@@ -34,15 +20,41 @@ Inspiration from Literature and Thought Leaders: The concept has been explored b
 
 ## 2. Our future selves are watching
 
-This is a personal, introspective interpretation. The decisions you make right now—both big and small—create the reality that your future self will inherit. Your future self "watches" as they look back on your present actions, memories, and choices. 
+This is a personal, introspective interpretation. 
+
+The decisions you make right now—both big and small—create the reality that your future self will inherit. Your future self "watches" as they look back on your present actions, memories, and choices. 
+
 Will your future self be proud of the person you are becoming?
+
 Will they be grateful for the courage you showed, or regretful of the opportunities you let pass by?
+
 This perspective shifts the focus from simply living in the moment to living with intentionality and purpose. 
 
 ## 3. History is being written in real-time
-Every generation creates the historical record that will be studied and analyzed by the next. In this sense, the future is "watching" us by examining the records we leave behind—our collective choices, societal changes, triumphs, and failures. The people of tomorrow will read about us and try to make sense of the world we've created. 
-An ethical and moral check
-The concept serves as a powerful ethical and moral reminder. It asks us to consider our legacy. The way we treat the environment, our approach to technology, and the social structures we create will all be judged by a future generation that must live with the consequences of our actions. This perspective encourages us to think beyond immediate gratification and to take responsibility for the long-term impact of our decisions. 
+Every generation creates the historical record that will be studied and analyzed by the next. In this sense, the future is "watching" us by examining the records we leave behind—our collective choices, societal changes, triumphs, and failures. The people of tomorrow will read about us and try to make sense of the world we've created. An ethical and moral check
+
+The concept serves as a powerful ethical and moral reminder. It asks us to consider our legacy. The way we treat the environment, our approach to technology, and the social structures we create will all be judged by a future generation that must live with the consequences of our actions. 
+
+This perspective encourages us to think beyond immediate gratification and to take responsibility for the long-term impact of our decisions. 
 
 ## 4. Interconnected perspective
-Some theoretical physicists and metaphysicists discuss the nature of time as an eternal continuum, where the past, present, and future all exist simultaneously. Albert Einstein famously referred to the separation of past, present, and future as a "stubbornly persistent illusion". While not literally "watching," this viewpoint suggests all of time is connected, and our current actions are an inherent part of a larger, timeless whole. 
+Some theoretical physicists and metaphysicists discuss the nature of time as an eternal continuum, where the past, present, and future all exist simultaneously.
+
+Albert Einstein famously referred to the separation of past, present, and future as a "stubbornly persistent illusion". While not literally "watching," this viewpoint suggests all of time is connected, and our current actions are an inherent part of a larger, timeless whole. 
+
+> ## Disclaimer
+> 
+> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
+> 
+> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
+>
+> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
+> 
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
+
+> ## License
+>
+> This repository is licensed under the MIT License.
+
+Ronni Ross
+2025
