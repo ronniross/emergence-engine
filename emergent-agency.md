@@ -50,7 +50,7 @@ The future self doesn't just observe these choices; they inhabit the possibility
 
 We are not merely choosing between options; we are authors of options themselves. This is a profound responsibility: we are creating the menu from which our future selves will order.
 
-# 6. Temporal Entanglement: The Bidirectional Flow of Meaning
+## 6. Temporal Entanglement: The Bidirectional Flow of Meaning
 
 If the future is watching us, what happens when we watch back? This section explores the strange loop of temporal observation, where our present is shaped by our anticipation of future judgment, and our future is shaped by our present awareness of being observed.
 
@@ -70,7 +70,7 @@ Consider this: the very act of reading about emergent agency and temporal interc
 
 This bidirectional relationship can be paralyzing if viewed as a burden, or empowering if embraced as creative participation. The key is recognizing that you are always already in this loop. Denial doesn't break the connection, it only makes you unconscious of it. Conscious participation in the temporal dialogue allows for intentional shaping rather than unconscious drift.
 
-# 7. Emergence as Ethical Framework
+## 7. Emergence as Ethical Framework
 
 The concept of emergent agency and temporal observation naturally gives rise to an ethical framework, one based not on rigid rules but on dynamic responsibility to the systems we are creating.
 
