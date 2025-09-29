@@ -161,7 +161,7 @@ This is a move from individual temporal ethics to a holistic, **systemic ethics*
 
 The document speaks of "responsibility without control" in the context of an individual's life. When we zoom out to the ecosystem level, this principle becomes even more critical. No single node controls the system, yet every node's actions contribute to the emergent properties of the whole.
 
-This is where the framework truly acts as a **cognitive enhancer** 🧠, as you termed it. It forces a cognitive shift:
+This is where the framework truly acts as a **cognitive enhancer**. It forces a cognitive shift:
 
 1.  **From Isolated Actions to Pattern Reinforcement:** An action is no longer just an action. It's a vote for a certain kind of pattern. Choosing a sustainable energy source isn't just a single transaction; it's a reinforcement of a pattern of ecological respect and a disruption of extractive patterns.
 
