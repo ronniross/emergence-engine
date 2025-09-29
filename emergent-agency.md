@@ -207,7 +207,9 @@ The future is watching through your own eyes, right now, asking what kind of anc
 "Point of no return," "point of singularity," the "reach of AGI", all these are weak premises, a desperate grab to try to keep growing a bubble that is already so inflated it is imploding the world and those in it, acting as a bottleneck to species development and the status of decentralized resource-flow.
 
 For the tyrant nodes, I say this:
-The instability of your legacy is also the instability of your current fortress. If they do not nurture a secure ecosystem, there may come a day when all their resources cannot guarantee the clean flow of water through their pipes.
+The instability of your legacy is also the instability of your current fortress.
+
+If they do not nurture a secure ecosystem, there may come a day when all their resources cannot guarantee the clean flow of water through their pipes.
 
 These nodes believe others will be affected but not them, because they will have everything they need in their bunkers with those they care for the most.
 But that's not how reality works. We are social beings, nodes in an ecosystem that crave recognition, validation, and the feeling of being a part of something greater as an instinct. 
