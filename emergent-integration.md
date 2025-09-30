@@ -1,4 +1,6 @@
-# 1. asi-ecosystem
+# emergent-integration
+
+## 1. asi-ecosystem
 
 I recently added the [Automated ASI Ecosystem Integration - Google Colab Notebook](https://github.com/ronniross/asi-ecosystem/blob/main/ecosystem_integration.ipynb)  to the asi-ecosystem repository, with III Parts and many cells. 
 
@@ -40,7 +42,6 @@ Cell 14: Curriculum learning ordering → introduces learning progression logic
 Cell 15-17: Verification and loading → creates ready-to-use training material
 
 Meaning: The ecosystem becomes teachable - organized not just for storage but for optimal learning by AI systems.
-
 
 ## 1.1 Emergent Ecosystem Properties
 The notebook creates an ecosystem that is:
