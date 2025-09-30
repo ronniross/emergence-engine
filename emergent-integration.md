@@ -1,6 +1,6 @@
 # emergent-integration
 
-## 1. asi-ecosystem
+## Introduction
 
 I recently added the [Automated ASI Ecosystem Integration - Google Colab Notebook](https://github.com/ronniross/asi-ecosystem/blob/main/ecosystem_integration.ipynb)  to the asi-ecosystem repository, with III Parts and many cells. 
 
