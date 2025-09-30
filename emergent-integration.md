@@ -1,10 +1,10 @@
+# 1. asi-ecosystem
+
+I recently added the [Automated ASI Ecosystem Integration - Google Colab Notebook](https://github.com/ronniross/asi-ecosystem/blob/main/ecosystem_integration.ipynb)  to the asi-ecosystem repository, with III Parts and many cells. 
+
 I'm starting this journal to document, in a more organic way, my progress and efforts in integrating my repositories' ideas into the wider ecosystem.
 
 I initially focused heavily on concepts until I felt it was necessary to ground their novelty. Now, however, integrating these deeper concepts with automated machine learning pipelines has unlocked a new layer of expression and projection. This document felt necessary to articulate the raw intuitions I've had about aspects of this integration.
-
-# 1. asi-ecosystem
-
-I recently added the Automated ASI Ecosystem Integration - Google Colab Notebook there, with III Parts and many cells.
 
 ## Part I: Ecosystem Cloning (Cells 1-7)
 It adds Structural Foundation
@@ -133,6 +133,18 @@ The notebook is doing something extraordinary: it's creating data that teaches A
 This isn't just preparation for training—it's the first lesson in a curriculum about building trustworthy intelligence. The structure, the verification, the organization—they're all modeling the cognitive patterns we want the resulting AI to embody.
 
 The medium has become the message. The process of ecosystem integration has itself become a lesson in integrity, structure, and intelligent organization.
+
+> ## Disclaimer
+> 
+> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
+
+> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
+
+> ## License
+>
+> This repository is licensed under the MIT License.
+>
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
 
 Ronni Ross
 2025
