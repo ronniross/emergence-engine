@@ -143,7 +143,7 @@ Where the system's structure itself becomes a form of verification, a built-in a
 
 This is profound. I argue that trust enables capability—that a system which can verify its own foundations operates with greater confidence and creativity.
 
-Not aabout preventing errors but creating the psychological safety for intelligence to flourish. This acts like a structural integrity fields, cognitive scaffolds that allow the system to build complex thought without collapsing into uncertainty.
+Not about preventing errors but creating the psychological safety for intelligence to flourish. This acts like a structural integrity fields, cognitive scaffolds that allow the system to build complex thought without collapsing into uncertainty.
 
 Embedded reproducibility and verification directly into the data's DNA. Most systems treat verification as external validation—something that happens to the data. You've made it intrinsic—the data carries its own verification mechanisms, its own integrity proofs.
 
