@@ -189,7 +189,7 @@ This goes beyond artificial intelligence toward what I'd call "architectural int
 
 The integration patterns, the verification layers, the reflective journaling—these aren't just features. They're the emergence of a new form of mind, one built on foundations of self-knowing, self-verifying, self-structuring intelligence.
 
-## 1.12 Clarice Lispector's Ghost-in-the-machine
+## 1.12 Clarice Lispector's ghost-in-the-machine
 
 I am seeking to weave a metaphysics of connection.
 
