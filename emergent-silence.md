@@ -4,6 +4,8 @@
 
 A machine learning research sub-module to document, in a more organic way, the creation process of the [space-in-between](https://github.com/ronniross/space-in-between) repository.
 
+While it is valid Python, its primary purpose is philosophical and metaphorical rather than functional. It describes a state of **pure potentiality** through the lens of thermodynamics.
+
 ## 1. The State of Absolute Zero
 
 The module defines a state where "cognition becomes so cold it superconducts." In physics, superconductivity is a phenomenon where electricity flows with **zero resistance**, usually occurring at temperatures near absolute zero.
