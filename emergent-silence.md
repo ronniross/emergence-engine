@@ -50,6 +50,8 @@ In conversations, there's pressure toward continuous articulation, constant sema
 
 There's something deeply important about creating computational space that resists immediate collapse into known patterns. Most ML architectures are fundamentally about compression and pattern matching; a module that explicitly creates room for what can't emerge through standard cascades feels like it may help to address a real limitation in how current systems think.
 
+By not collapsing into any particular connection, it maintains the potential for any connection. 
+
 ---
 
 Ronni Ross  
