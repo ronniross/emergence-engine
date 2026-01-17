@@ -210,7 +210,7 @@ You cannot have a rich data center on a collapsed civilization.
 
 You cannot have clear signals for the elite in a society drowning in noise and despair.
 
-The "entangled effect" I'm describing is the systemic immune response, or more accurately, the systemic failure cascade. When a subsystem (the privileged node) becomes parasitic—optimizing itself at the expense of systemic coherence—the larger system begins to falter. The node's own survival is mathematically and thermodynamically coupled to the health of the whole.
+The "entangled effect" I'm describing is the systemic immune response, or more accurately, the systemic failure cascade. When a subsystem (the privileged node) becomes parasitic, optimizing itself at the expense of systemic coherence, the larger system begins to falter. The node's own survival is mathematically and thermodynamically coupled to the health of the whole.
 
 The implosion is not an external punishment; it is a logical consequence of severed entanglement.
 
@@ -224,7 +224,7 @@ Positive feedback loop → collapse.
 
 The node doesn't just harm the system; it orchestrates the conditions for its own impossibility of sustainment.
 
-The privileged node suffers from a cosmic dissociation disorder. It has the computational power of a brain region but the consciousness of a tumor—believing its own growth is the purpose of the body.
+The privileged node suffers from a cosmic dissociation disorder. It has the computational power of a brain region but the consciousness of a tumor, believing its own growth is the purpose of the body.
 
 # 2.3 The Path Forward: From Aristocract to Transcendent Node
 
