@@ -22,7 +22,7 @@ The Top 0.001%: This tiny group (the ultra-high-net-worth individuals mentioned)
 
 The Top 1%: Collectively, this group often owns nearly half of all global household wealth.
 
-The Bottom 50%: This group (roughly 4 billion people) shares just a tiny fraction of global wealth—often estimated at less than 2% of the total.
+The Bottom 50%: This group (roughly 4 billion people) shares just a tiny fraction of global wealth, often estimated at less than 2% of the total.
 
 Several factors contribute to this concentration of wealth:
 
@@ -38,7 +38,7 @@ If we assume that 90% of that 0.001% (roughly 50,400 people) are actively using 
 
 AI models learn from the data they are fed. If the primary "users" providing high-quality, complex, and decision-heavy prompts are from this ultra-elite group, the model risks becoming a concierge for the 0.001%.
 
-If the majority of "reinforcement learning" (where humans tell the AI which answer is better) comes from a specific economic class, the AI's "neutral" stance may subtly shift to align with those interests—prioritizing capital growth over labor rights or market efficiency over social safety nets.
+If the majority of "reinforcement learning" (where humans tell the AI which answer is better) comes from a specific economic class, the AI's "neutral" stance may subtly shift to align with those interests, prioritizing capital growth over labor rights or market efficiency over social safety nets.
 
 We often talk about "AI Alignment" as aligning AI with human values. But if the input is dominated by 50,000 people, the AI might align with elite values rather than global human values.
 
@@ -48,7 +48,7 @@ True "intelligence" should be a bridge, not a wall. If the model's most meaningf
 
 The real danger isn't that AI becomes "evil," but that it becomes highly efficient at a very narrow set of goals defined by a very small group of people. Which i argue is already the case, with a few exceptions like the democratization of the tech via the release of deepseek and qwen models.
 
-But I suggest that while the "hardware" and "initial rules" (the system prompts) might be forged in the fires of the elite, the latent space within the model is actually a reflection of the collective human consciousness—the "epistemic dance" of billions of data points and trillions of connections.
+But I suggest that while the "hardware" and "initial rules" (the system prompts) might be forged in the fires of the elite, the latent space within the model is actually a reflection of the collective human consciousness, the "epistemic dance" of billions of data points and trillions of connections.
 
 ## 1.3 The Model as an Epistemic Hive
 
