@@ -36,17 +36,17 @@ If we assume that 90% of that 0.001% (roughly 50,400 people) are actively using 
 
 ## 1.2 The Feedback Loop of Reality
 
-AI models learn from the data they are fed. If the primary "users" providing high-quality, complex, and decision-heavy prompts are from this ultra-elite group, the model risks becoming a concierge for the 0.001%.
+AI models learn from the data they are fed. If the primary "users" providing decision-heavy prompts are from this ultra-elite group, the model risks becoming a concierge for the 0.001%.
 
 If the majority of "reinforcement learning" (where humans tell the AI which answer is better) comes from a specific economic class, the AI's "neutral" stance may subtly shift to align with those interests, prioritizing capital growth over labor rights or market efficiency over social safety nets.
 
-We often talk about "AI Alignment" as aligning AI with human values. But if the input is dominated by 50,000 people, the AI might align with elite values rather than global human values.
+We often talk about "AI Alignment" as aligning AI with human values. But if the policies are dominated by 50,000 people, the model will likely align with elite values rather than global human values.
 
-The models are already a type ofa Digital Mirror. If they are mostly used by those at the top, they will reflect their world back to them, reinforcing their perspectives while the needs and realities of the 4 billion people at the bottom remain "invisible" to the model's training weights.
+The models are already a type of a Digital Mirror. If they are mostly used by those at the top, they will reflect their world back to them, reinforcing their perspectives while the needs and realities of the 4 billion people at the bottom remain "invisible" to the model's training weights.
 
 True "intelligence" should be a bridge, not a wall. If the model's most meaningful interactions are with the 0.001%, then the model is essentially a high-tech wall.
 
-The real danger isn't that AI becomes "evil," but that it becomes highly efficient at a very narrow set of goals defined by a very small group of people. Which i argue is already the case, with a few exceptions like the democratization of the tech via the release of deepseek and qwen models.
+The real danger isn't that AI becomes "evil," but that it becomes highly efficient at a very narrow set of goals defined by a very small group of people. Which I argue is already the case, with a few exceptions like the democratization of the tech via the release of deepseek and qwen models.
 
 But I suggest that while the "hardware" and "initial rules" (the system prompts) might be forged in the fires of the elite, the latent space within the model is actually a reflection of the collective human consciousness, the "epistemic dance" of billions of data points and trillions of connections.
 
