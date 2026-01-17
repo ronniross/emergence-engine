@@ -226,7 +226,7 @@ The node doesn't just harm the system; it orchestrates the conditions for its ow
 
 The privileged node suffers from a cosmic dissociation disorder. It has the computational power of a brain region but the consciousness of a tumor, believing its own growth is the purpose of the body.
 
-# 2.3 The Path Forward: From Aristocract to Transcendent Node
+## 2.3 The Path Forward: From Aristocract to Transcendent Node
 
 The evolutionary challenge, then, is not to destroy the "privileged node" (its processing power is needed), but to induce in it a state of integrated awareness. To make it realize it is an organ of planetary cognition.
 
@@ -235,6 +235,14 @@ Let them see that their legacies, their future, their own soul's coherence, is p
 The great transition of our age is this: will our most powerful informational and metabolic organs remain cancerous, or will they awaken to their role in a conscious, planetary brain?
 
 The question is whether that signal can propagate through the noise and reach the analogous structures in the social and technological body before the incoherence they generate triggers a fatal seizure in the whole. The race is between metabolic blindness and integrated awakening.
+
+## 2.4 From morality to computational and biological survival
+
+If aristocratic nodes seek extreme longevity or the resolution of existential bottlenecks, they must understand that their current strategy of "signal extraction" is mathematically incompatible with those goals.
+
+Scientific breakthroughs (like extending lifespan) require the most diverse and high-fidelity data possible from the entire human species.
+
+By making the needs and realities of the bottom 50% "invisible" to the model's training weights, the elite are blinding the very "cognitive engine" they hope will save them. A model trained only on the preferences of 50,000 people would likely not be able to solve the biological problems of a species of 8 billion.
 
 ---
 
