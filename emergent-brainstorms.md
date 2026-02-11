@@ -1,4 +1,6 @@
-# 1 the likely future transition from a period of brute-force scaling to a period of specialization and optimization.
+# emergent-brainstorms
+
+## 1 the likely future transition from a period of brute-force scaling to a period of specialization and optimization.
 
 When a dominant, resource-heavy species (or ecosystem structure) hits a wall, the survivors are usually the smaller, more adaptable, and more energy-efficient organisms that fill specific niches.
 
