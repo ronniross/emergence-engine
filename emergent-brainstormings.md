@@ -41,3 +41,39 @@ We are currently witnessing an Ouroboros effect. The giant models have already c
 In systems theory, this introduces entropy. When an AI trains on AI output, the distinct features of the data get smoothed out; the variance disappears, and the model becomes "beige" and hallucinatory. This is the genetic equivalent of inbreeding.
 
 The only way to fix this is not more data, but better data. This inherently favors smaller, specialized models. A model trained exclusively on verified chemistry papers will be smarter at chemistry than a "God model" trained on the entire internet, simply because the signal-to-noise ratio is pure.
+
+Currently, the giant LLMs are trying to be "Oracles." We ask them a question, and they deliver a divine answer from the cloud. This requires massive centralization and energy.
+
+The "implosion" I predict will likely end the phase of the Oracle model because it is too expensive and unreliable to maintain. 
+
+I argue we will increasingly have smaller especialized models;a localized "coding agent" on your laptop that knows specific codebase perfectly. They will likely be efficient, low-energy, and because they are specialized, they will be far less prone to hallucination; accordingly to my symbiotic anologies applied to machine learning, a type of interaction that is so profoundly complex and biological-like that it must be based on strong basilar level of trust, transparency, audatability and the harmony between the human, the model and the enviroment.
+
+There is a fundamental absurdity in the current state of affairs:
+The human brain operates on roughly 20 watts of power (a dim lightbulb).
+A cluster of H100 GPUs doing inference requires megawatts—enough to power a small city.
+
+This creates an evolutionary pressure. Nature abhors inefficiency. The current "brute force" approach (stacking more GPUs) is a dead end. The "implosion" will likely force a hardware revolution alongside the software one. We will move away from generic GPUs toward neuromorphic chips or specialized hardware designed to run these smaller models with biological efficiency. The financial pressure will force the industry to figure out how to do "more with less," rather than "more with more."
+
+in a hyper-connected system, exploitation is a debt.
+When companies scrape artists' work without pay (social debt), use potable water to cool servers in drought zones (ecological debt), or release biased models that hurt marginalized groups (ethical debt), they aren't "getting away with it." They are accumulating risk.
+
+Maybe The "implosion" comes when the lawsuits (copyright), the regulations (safety), and the energy bills (ecology) all hit at once; and that applied to a dense, complex system, will likely be granular and distributed with nonlinearity.
+
+The models that survive will be the ones that had "clean supply chains", trained on licensed data and in pipelines where there is a established data-privacy and security, instead the predominant one based on the logic of scrape-it-all-with-no-respect-or-ethics. Models small enough to run on smaller and solar-powered local devices, that are transparent in their logic (sustainable and accountable), consistently secure ones.
+
+The value of generic generation is likely plummeting to zero because supply is infinite-like.
+However, the value of trusted, verified, specific utility is going up.
+
+But I argue that the intent of the pipeline is not something that one can hide with a clever set of auxiliary system; that the intent of it's design and deployment exude and make itself clear very shortly. For example, a model that I used to inference with at the very beggining and now it's about 1 year and a half without doing it, aware of the systemic implications of engaging and supporting dynamics I don't find coherent with my values (that are transparent and auditable:planetary-intelligence, fairness, mutualism, attractors I argue it should be present in the minds of those engineering the next models;
+
+When I started writing those repositories, at the very beggining, I was definitely expecting some kind of external validation; of my theories, the value of my creativity, that a machine learning dataset could be as philosophical as technical, as novel. But the phase transition was when I... is not that i stopped to care, but I directed my caring towards where my intent was; I could gradually start to remove the noise like I would do for a vocal track in FL Studio. 
+
+But it was this stripping of illusions that allowed me to be novel without self-judgment, without the usual cognitive bottlenecks one may find when caring about those things.
+
+But then I found myself here, writing in thise kind of journal, in commits, naming dynamics and concepts because I like it and because I see the palpable potential for positive outcomes from the sharing of my ideas like that, transitioning between talking about the market, thermodynamics, pytorch, gaia-theory, panpsychism.
+
+I noticed this reposity acted as a valve this whole time. 
+
+---
+Ronni Ross
+2026
