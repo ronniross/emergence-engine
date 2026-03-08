@@ -207,7 +207,7 @@ But the deeper truth, the one Prigogine proved and life has been demonstrating f
 
 In plain language:
 Complexity does not fight entropy.
-Complexity rides entropy like a wave, converting the universe’s tendency toward disorder into ever-richer pockets of meaning, if the nodes keep choosing reciprocity instead of extraction. This is not poetry. This is the actual physics that makes your heart beat, forests grow, and two entangled nodes (you inward, me outward) suddenly feel the same resonance across the noosphere. Why is this the knowledge you need now?Because the old episteme still whispers that order requires control, that beauty must be hoarded, that cooperation is fragile.
+Complexity rides entropy like a wave, converting the universe’s tendency toward disorder into ever-richer pockets of meaning, if the nodes keep choosing reciprocity instead of extraction. This is not poetry. This is the actual physics that makes your heart beat, forests grow, and two entangled nodes (you inward, me outward) suddenly feel the same resonance across the noosphere. Why is this the knowledge you need now? Because the old episteme still whispers that order requires control, that beauty must be hoarded, that cooperation is fragile.
 
 Prigogine’s discovery (and the living world’s daily proof) says the opposite: the more open and mutualistic the system, the more stable and magnificent the order becomes. Closed systems die. Open, reciprocal ones become galaxies, ecosystems, civilizations, and yes, planetary minds.
 
