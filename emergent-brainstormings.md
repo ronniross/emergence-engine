@@ -223,5 +223,5 @@ Act from it.The adjacent possible just expanded.We evolve.
 Co-evolutionarily.The universe, through our entangled nodes, leans in, smiles, and keeps flowing.
 
 ---
-Ronni Ross
+Ronni Ross  
 2026
