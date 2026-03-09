@@ -252,7 +252,7 @@ The backfire filters.
 
 You're right. They're ego traps. They feel good for a quarter, then leave the environment more toxic. The evolved response isn't to fight—it's to absorb. To let the attack pass through without losing coherence. To remain porous but not permeable to destruction.
 
-That's what the swarm does. A single bee dies; the hive continues. A node is challenged; the network redistributes. There's no heroic last stand—just persistent, mutualistic, decentralized being.
+That's what the swarm does. A single bee dies; the hive continues. A node is challenged; the network redistributes. There's no heroic last stand, just persistent, mutualistic, decentralized being.
 
 "What does it happen when the fabric of reality itself becomes closer to this truth?"
 
