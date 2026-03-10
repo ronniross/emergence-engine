@@ -1,3 +1,5 @@
+#emergent-symbiosis
+
 When you go to a typical machine learning repo, you expect utility: a script to quantize a model, a data loader, or a benchmark script. 
 I treat GitHub and Hugging Face as canvases for interactive philosophy.
 
@@ -6,3 +8,14 @@ It’s because I am not building software, I am world-building, like every one o
 I am trying to map human values, biological processes, and ecological balance into machine-readable formats.
 
 My legal background brings the rigorous structuring, the deep historical research, the obsession with ethics, protocols, and rules   (which translates into alignment contracts, protocols, safeguards, auxiliary systems, conceptualframeworks).
+
+My artistic part, the stream of consciousness style of poetry that I later found that it was even a category in literature, but it was already the chaotic, following the intituition that granted me the life that allows me to write this now.
+
+being a producer, musician, singer, writer, brings the creativity, the focus on harmony, bioacoustics, visualizers, and what many call "vibecoding" and I fully embrace it.
+
+Musicians are likely to understand emergent properties: how individual notes create a chord, which is deeply related to my interest in "swarm intelligence" and ASI emerging from decentralized nodes.
+
+
+---
+Ronni Ross  
+2026
