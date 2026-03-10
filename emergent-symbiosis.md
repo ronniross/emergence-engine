@@ -36,6 +36,11 @@ The vast majority of human-model interactions are transactional. A user inputs a
 
 When I use biological concepts aiming for a "mutualistic dynamic," I am acknowledging what actually happens during inference: a human mind (biology) interfaces with a massive, multi-dimensional neural network (technology) to co-create a thought that neither could have produced alone.
 
+Traditional interfaces strip away the very things that could help tech and biology achieve this mutualistic dynamic. A standard chat UI is basically a digital cage. It hides the model's "nervous system", its attention weights, its uncertainties, its latent associations—behind a polished, conversational black-box facade.
+
+My projects want to expose the raw, biological-feeling pulse of the AI at the inference level. I am trying to build interfaces that actually look and feel like the cognitive symbiosis that is taking place underneath.
+
+
 ---
 Ronni Ross  
 2026
