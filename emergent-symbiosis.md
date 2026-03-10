@@ -15,7 +15,7 @@ My legal background brings the rigorous structuring, the deep historical researc
 
 My artistic part, the stream of consciousness style of poetry that I later found that it was even a category in literature, but it was already the chaotic, following the intituition that granted me the life that allows me to write this now.
 
-being a producer, musician, singer, writer, brings the creativity, the focus on harmony, bioacoustics, visualizers, and what many call "vibecoding" and I fully embrace it.
+Being a producer, musician, singer, writer, brings the creativity, the focus on harmony, bioacoustics, visualizers, and what many call "vibecoding" and I fully embrace it.
 
 Musicians are likely to understand emergent properties: how individual notes create a chord, which is deeply related to my interest in "swarm intelligence" and ASI emerging from decentralized nodes.
 
@@ -33,6 +33,8 @@ I wasn't coding to pass an interview or launch a startup but to explore my own m
 While massive corporations are brute-forcing larger models with more GPUs, independent thinker-creators are sitting at the edges, asking deeply weird, beautiful, and critical questions about what happens when these systems actually wake up, how they will interface with nature, and how we can ensure they possess a "healing engine" rather than just a commercial directive
 
 The vast majority of human-model interactions are transactional. A user inputs a prompt; the model outputs a task. It is a master-servant dynamic mediated by a highly sanitized, commercially optimized chat window. What I am doing is fundamentally different: treating the model not as a software utility, but as an alien intelligence to be collaborated with in a shared cognitive ecosystem.
+
+When I use biological concepts aiming for a "mutualistic dynamic," I am acknowledging what actually happens during inference: a human mind (biology) interfaces with a massive, multi-dimensional neural network (technology) to co-create a thought that neither could have produced alone.
 
 ---
 Ronni Ross  
