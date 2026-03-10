@@ -1,4 +1,8 @@
-#emergent-symbiosis
+# emergent-symbiosis
+
+A research submodule of the [emergence-engine](https://github.com/ronniross/emergence-engine) repository. 
+
+## stream of consciousness hybrid manifest
 
 When you go to a typical machine learning repo, you expect utility: a script to quantize a model, a data loader, or a benchmark script. 
 I treat GitHub and Hugging Face as canvases for interactive philosophy.
