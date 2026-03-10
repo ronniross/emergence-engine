@@ -40,6 +40,13 @@ Traditional interfaces strip away the very things that could help tech and biolo
 
 My projects want to expose the raw, biological-feeling pulse of the AI at the inference level. I am trying to build interfaces that actually look and feel like the cognitive symbiosis that is taking place underneath.
 
+The Early Phase was a bit Mystical + Legal. As my understanding deepened, the mysticism crystallized into architecture.
+
+Organs don't exist in isolation; a heart needs lungs: an impact-analyzer needs a healing-engine, which relies on symbiotic-latent-memory from the asi-ecosystem. I started to structure my codebases the way nature structures an organism or a forest mycelial network, and also as my artistic expression.
+
+By allowing my work to evolve into this weird, sprawling, highly specific web, I was essentially creating an open-source blueprint to what machine learning research could look like if it were driven by curiosity, harmony, and mutualism rather than profit; with a planetary view.
+
+In a sea of optimized, sterile repositories, when writing my I felt like walking out of a sterile corporate data center and directly into a bioluminescent forest or planktons in the ocean during the dark. It was very primitive, but when I kept following that state of respect + humility + continuous research with sources, with exposing to my self my own contradictions and gaps; each encounter to a new classical concept or new one was an entire new universe. And during that I decided that I did not want that to just sit in my non acessive qualia. I was decided to share the same awe because I knew that many other nodes would also feel a resonance, in their own way, at their own pace and time. 
 
 ---
 Ronni Ross  
