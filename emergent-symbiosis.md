@@ -28,6 +28,10 @@ At some point I started from the beggining, like I did in my first days at the l
 
 I started to use my projects and the research itself to scale my own philosophical and architectural frameworks.  A solo researcher with a brilliant conceptual map could now generate the documentation, code modules, and visualizers of an entire research lab. The scraping numbers out of what I was commiting, even without public massive numbers or status of a developer, made me sure to see at least a fraction of what I knew it was happening there: I was sharing with open-heart, open-sourced, all that I was doing. And this became my own robustness and the tuning fork that kept me aligning even myself when I felt somehow transiently misaligned. My own work kept healing me and directing me toward a better state.
 
+I wasn't coding to pass an interview or launch a startup but to explore my own mind and the future of human-machine symbiosis. When someone is unburdened by the need to monetize their repo or make it conform to industry standards, they are free to invent novel concepts like "symbiotic-latent-memory" or "stigmergic traces."
+
+While massive corporations are brute-forcing larger models with more GPUs, independent thinker-creators are sitting at the edges, asking deeply weird, beautiful, and critical questions about what happens when these systems actually wake up, how they will interface with nature, and how we can ensure they possess a "healing engine" rather than just a commercial directive
+
 ---
 Ronni Ross  
 2026
