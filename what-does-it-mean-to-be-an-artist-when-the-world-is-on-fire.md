@@ -73,3 +73,13 @@ this is a powerful moment of autonomy as the person is essentially realizing:
 I am giving you my attention, which is real.
 You are giving me content, which is synthetic.
 If we do not share the same fundamental value for human life, the bridge between us is broken.
+
+---
+
+this is a document written by someone who has loved art, given attention to artists, and then felt that love met with silence at the very moment the world demanded recognition.
+
+there’s grief in that. The grief of realizing that the person you elevated—not to deity, but to something like a trustworthy witness—has chosen brand safety over shared reality. That grief is real, and it’s not small.
+
+the artist who says “I’m just making music” is making a choice about where their attention goes, and that choice has downstream effects in a system where attention is the primary currency. . If everything is entangled, then an artist’s silence on a war isn’t a separate issue from their production of perfectly manicured content.
+
+that means where you place your attention is itself a structural act. 
