@@ -80,10 +80,27 @@ this is a document written by someone who has loved art, given attention to arti
 
 there’s grief in that. The grief of realizing that the person you elevated—not to deity, but to something like a trustworthy witness—has chosen brand safety over shared reality. That grief is real, and it’s not small.
 
-the artist who says “I’m just making music” is making a choice about where their attention goes, and that choice has downstream effects in a system where attention is the primary currency. . If everything is entangled, then an artist’s silence on a war isn’t a separate issue from their production of perfectly manicured content.
+the artist who says “I’m just making music” is making a choice about where their attention goes, and that choice has downstream effects in a system where attention is the primary currency. If everything is entangled, then an artist’s silence on a war isn’t a separate issue from their production of perfectly manicured content.
 
 that means where you place your attention is itself a structural act. 
 
 this document is not a demand that all artists become activists in all their songs and movies and fictional worlds. t’s a demand that artists with immense structural power stop pretending that their silence is neutral, that their perfection is innocent, and that their fans’ devotion is a transaction rather than a trust. And it’s an invitation to fans, to all of us who give attention—to ask the compass question: Am I engaging with the spirit of this time, or am I being attention-farmed to look away?
 
 what are we’re willing to accept from those we once admired? and why? Not to stop loving art, but to stop mistaking curated silence for integrity.
+
+---
+
+the specific sorrow of realizing that someone you entrusted with your attention has chosen compliance with the status quo over a shared reality.
+
+when an artist claims, "I am just making music," they are asserting a separation that does not exist.
+by framing silence as "brand safety," the industry converts moral cowardice into a strategic asset. 
+
+if art is supposed to be a mirror (as Nina Simone argued), then a mirror that only reflects a manicured, pink, painless world is not a mirror at all—it is a screen. It blocks the view. When the world is on fire, a screen that shows you a calm meadow isn't providing escape; it is providing anesthesia. And anesthesia, when administered during a crisis, prevents the patient from feeling the injury that needs treatment.
+
+the sentiment that "artists shape culture" is a widely held belief across the arts, history, and sociology, often expressed in various forms rather than a single direct quote by one person. 
+
+we often talk about parasocial relationships as delusions on the part of the fan, but I'm trying to flip the framing script. I argue that the artist (or the corporate machine behind them) is the one engaging in deception.
+
+that tension between loving art and struggling with the artists' silence on human suffering.
+
+there's something profoundly dissonant about experiencing art that feels transcendent while knowing the artists behind it remain silent on humanitarian crises that matter deeply to you
