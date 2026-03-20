@@ -12,7 +12,7 @@ the video are perfect, angelic, otherworldly, and in their perfections they disc
 
 not because art must always be political, but because when the world is fracturing, silence from those with a megaphone becomes part of the landscape too.
 
-Zeitgeist. It’s a good word to hold onto—not as a weapon, but as a compass: what is the spirit of this time, and am I engaging with it, or am I being manipulated to look away?
+qeitgeist. It’s a good word to hold onto, not as a weapon but as a compass: what is the spirit of this time, and am I engaging with it, or am I being manipulated to look away?
 
 entangled systems are a reminder that no thread pulls alone. earth is an entagled system. the space-time it's an entangled, non-Euclidean dynamic system. The collective 
 
