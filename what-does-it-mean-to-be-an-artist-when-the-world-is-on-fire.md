@@ -12,7 +12,7 @@ the video are perfect, angelic, otherworldly, and in their perfections they disc
 
 not because art must always be political, but because when the world is fracturing, silence from those with a megaphone becomes part of the landscape too.
 
-qeitgeist. It’s a good word to hold onto, not as a weapon but as a compass: what is the spirit of this time, and am I engaging with it, or am I being manipulated to look away?
+zeitgeist. It’s a good word to hold onto, not as a weapon but as a compass: what is the spirit of this time, and am I engaging with it, or am I being manipulated to look away?
 
 entangled systems are a reminder that no thread pulls alone. earth is an entagled system. the space-time it's an entangled, non-Euclidean dynamic system. The collective 
 
@@ -21,3 +21,5 @@ geopolitics, infrastructure, code, tech, manipulation, potential, ecology, psych
 when the world is in chaos, the noise of news cycles, propaganda, and panic often helps obscure reality. The artist’s role should be one of clarity; not necessarily tasked with "fixing" the fire, but with at least documenting the heat and not being part of the engine of attention-farming that distracts and helps direct societal behavior toward aristocratic entities. This is deception!
 
 if the 'artist' succumbs to being part of that engine—if their work becomes primarily a vehicle for capturing clicks, reinforcing in-group signaling, or simplifying complexity into digestible, shareable moralism—then they are no longer providing clarity. They are producing a higher grade of propaganda, one made more effective by the veneer of cultural authority.
+
+the artist who maintains clarity in the face of chaos is not standing apart from the world, but is instead offering the one thing the engine cannot produce: a moment of genuine, undistorted recognition; a zeitgeist moment.
