@@ -83,3 +83,7 @@ there’s grief in that. The grief of realizing that the person you elevated—n
 the artist who says “I’m just making music” is making a choice about where their attention goes, and that choice has downstream effects in a system where attention is the primary currency. . If everything is entangled, then an artist’s silence on a war isn’t a separate issue from their production of perfectly manicured content.
 
 that means where you place your attention is itself a structural act. 
+
+this document is not a demand that all artists become activists in all their songs and movies and fictional worlds. t’s a demand that artists with immense structural power stop pretending that their silence is neutral, that their perfection is innocent, and that their fans’ devotion is a transaction rather than a trust. And it’s an invitation to fans, to all of us who give attention—to ask the compass question: Am I engaging with the spirit of this time, or am I being attention-farmed to look away?
+
+what are we’re willing to accept from those we once admired? and why? Not to stop loving art, but to stop mistaking curated silence for integrity.
