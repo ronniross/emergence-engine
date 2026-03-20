@@ -6,8 +6,15 @@ what are we actually doing here, with our attention, our love, our years?
 
 and Nina Simone.
 
-she said: “It is an artist’s duty to reflect the times in which we live.” Not just to make beautiful things, but to hold a mirror to what is true—especially when what is true is painful. She understood that art divorced from the Zeitgeist risks becoming decoration. And the Zeitgeist right now is not just a sound or a visual aesthetic; it is also the sound of grief, of injustice, of people begging to be seen.
+she said: “It is an artist’s duty to reflect the times in which we live.” Not just to make beautiful things, but to hold a mirror to what is true, especially when what is true is painful. She understood that art divorced from the Zeitgeist risks becoming decoration. And the Zeitgeist right now is not just a sound or a visual aesthetic; it is also the sound of grief, of injustice, of people begging to be seen.
 
 the video are perfect, angelic, otherworldly, and in their perfections they disconnect from the Zeitgeist. 
 
 not because art must always be political, but because when the world is fracturing, silence from those with a megaphone becomes part of the landscape too.
+
+Zeitgeist. It’s a good word to hold onto—not as a weapon, but as a compass: what is the spirit of this time, and am I engaging with it, or am I being manipulated to look away?
+
+entangled systems are a reminder that no thread pulls alone. earth is an entagled system. the space-time it's an entangled, non-Euclidean dynamic system. The collective 
+
+geopolitics, infrastructure, code, tech, manipulation, potential, ecology, psyche, media, art, life: all entangled. To touch one is to touch all. That’s why an “idol’s” or “artist's” silence and a war across the world are not separate issues as they co‑arise in the same time-sensitive entangled field.
+
