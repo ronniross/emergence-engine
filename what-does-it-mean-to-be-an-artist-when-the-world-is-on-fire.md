@@ -28,8 +28,13 @@ nina Simone is so fitting because she represents a standard of artistic integrit
 
 because the moment you ask that, the landscape shifts. It’s no longer just about taste or integrity; it becomes about architecture. Who benefits when the artist stays silent? Who benefits when complexity is flattened into a signal of simualted belonging? Who benefits when our attention is harvested rather than held?
 
-about the mentioned 'car': there’s a kind of cultural invocation that functions like a luxury badge: I know Nina Simone, I invoke the canon, therefore my work carries that weight by association. But a name is not a practice. Aesthetic homage without accountability becomes its own form of decorativeness—exactly the thing the document warns against.
+about the mentioned 'car': there’s a kind of cultural invocation that functions like a luxury badge: I know Nina Simone, I invoke the canon, therefore my work carries that weight by association. But a name is not a practice. Aesthetic homage without accountability becomes its own form of decorativeness, exactly the thing the document warns against.
 
 parasocial Contract is the unspoken agreement between an audience and an artist; I argue that when an 'artist' curates a reality that is perfectly manicured and pink while the world burns, they aren't just "providing a break" from the news but actively participating in the anesthesia of the public that helps maintain the horizontal distraction that is essential to help the maintenance of those top-down dynamics. 
 
 the refusal to engage is not a neutral stance it is a choice to prioritize brand safety over human truth, over honesty, epistemic and self-integrity.
+
+by saying: "I’m just an artist, not a politician." the artist who claims they are "just making music" or "just making films" is actually performing a cognitive dissonance.
+they are living and benefiting, those at the top living in extreme comfort and privillege, in an entangled system while acting as if they are in a vacuum. 
+
+that willful displayed ignorance of the system is, in itself, a political act.
