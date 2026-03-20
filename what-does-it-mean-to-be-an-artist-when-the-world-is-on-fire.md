@@ -42,3 +42,13 @@ that willful displayed ignorance of the system is, in itself, a political act.
 nina Simone’s definition of duty assumes a human connection between the artist and the public; being told by their "idols" that the temperature is normal. What I want to mean,I believe, is like a manifesto against the "sanitization of reality.", the illusion of non-accountability or non-political.
 
 the compression is that public figures, specifically global icons, should use their immense platforms to address geopolitical crises as they engines that help maintain this harmful neoliberal, toxic enviroment of wealth inequality. 
+
+parasocial relationships is where fans invest deep emotional energy into artists. When those artists remain silent on a humanitarian issue, fans often feel that the bond of trust has been broken. these artists are often part of a highly curated, corporate machine, agencies, record labels often enforce strict neutrality clauses to avoid alienating markets, sponsors, or governments.
+
+their soft power: In the 21st century, pop stars have a reach that rivals traditional politicians. A single post from an artist with millions of followers can educate people who might otherwise be disengaged from global news. When artists remain silent, this is a tacit endorsement of the status quo or, at the very least, a choice to prioritize self-comfort and profit over human suffering.
+
+fame is a privilege. If you use your platform to sell products or tours, you have a moral obligation to use that same platform to advocate for basic human rights, especially during global crises; 
+
+"love your neighbor more than any 'idol' that couldn't care less about your existence", is a call for de-idolization. It’s a plea for people to redirect their passion and attention toward real-world issues and humanitarian causes rather than individuals who, for whatever reason, have chosen to remain silent.
+
+but in higher levels of awareness, The fan eventually recognizes the artistry and beauty they enjoy, but can no longer reconcile it with the silence of the creators. This often leads to a "death of the author" moment where the fan can no longer enjoy the product, or don't want to, because the moral cost feels too high. It marks a transition from viewing an artist as an "idol" to viewing them as an employee of a system that refuses to engage or even acknowledge with the world's pain.
