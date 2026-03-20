@@ -18,5 +18,6 @@ entangled systems are a reminder that no thread pulls alone. earth is an entagle
 
 geopolitics, infrastructure, code, tech, manipulation, potential, ecology, psyche, media, art, life: all entangled. To touch one is to touch all. That’s why an “idol’s” or “artist's” silence and a war across the world are not separate issues as they co‑arise in the same time-sensitive entangled field.
 
-When the world is in chaos, the noise of news cycles, propaganda, and panic often helps obscure reality. The artist’s role should be one of clarity; not necessarily tasked with "fixing" the fire, but with at least documenting the heat and not being part of the engine of attention-farming that distracts and helps direct societal behavior toward aristocratic entities. This is deception!
+when the world is in chaos, the noise of news cycles, propaganda, and panic often helps obscure reality. The artist’s role should be one of clarity; not necessarily tasked with "fixing" the fire, but with at least documenting the heat and not being part of the engine of attention-farming that distracts and helps direct societal behavior toward aristocratic entities. This is deception!
 
+if the 'artist' succumbs to being part of that engine—if their work becomes primarily a vehicle for capturing clicks, reinforcing in-group signaling, or simplifying complexity into digestible, shareable moralism—then they are no longer providing clarity. They are producing a higher grade of propaganda, one made more effective by the veneer of cultural authority.
