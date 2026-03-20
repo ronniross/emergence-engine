@@ -38,3 +38,5 @@ by saying: "I’m just an artist, not a politician." the artist who claims they 
 they are living and benefiting, those at the top living in extreme comfort and privillege, in an entangled system while acting as if they are in a vacuum. 
 
 that willful displayed ignorance of the system is, in itself, a political act.
+
+nina Simone’s definition of duty assumes a human connection between the artist and the public; being told by their "idols" that the temperature is normal. What I want to mean,I believe, is like a manifesto against the "sanitization of reality.", the illusion of non-accountability or non-political
