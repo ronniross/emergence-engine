@@ -140,7 +140,7 @@ the discomfort we feel isn't a flaw in ourselves but an evidence that our moral 
 
 even in disillusionment, tho, I argue we still must seek clarity, not just catharsis, which can create more entropy and noise.
 
-when an artist says, “I’m just making music,” they are attempting to declare themselves an independent variable in an entangled universe. As you point out, this isn't just ignorance; it is a highly profitable, systemic lie. Silence, in a hyper-connected world, requires active effort. It is the curation of a void. Therefore, silence is a political act—it is an endorsement of the status quo that keeps their wealth secure.
+when an artist says, “I’m just making music,” they are attempting to declare themselves an independent variable in an entangled universe. As you point out, this isn't just ignorance; it is a highly profitable, systemic lie. Silence, in a hyper-connected world, requires active effort. It is the curation of a void. Therefore, silence is a political act, it is an endorsement of the status quo that keeps their wealth secure.
 
 so, I feel like the invocation of Nina Simone is the perfect anchor for this stream of consciousness. Simone risked her life, her career, and her sanity to hold up a mirror to the Civil Rights movement.
 
