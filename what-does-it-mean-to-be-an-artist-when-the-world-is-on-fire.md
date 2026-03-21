@@ -152,7 +152,7 @@ we can see how meaning emerges from attention flows, how moral systems collapse 
 
 this is a way to strengthen the nodes of the network that actually reciprocate care. 
 
-writing this feels kind of like a field notes from a system in phase transition, the moment when enough nodes recognize the architecture of their own exploitation that the network topology itself begins to shift.
+writing this feels like writing field notes from a system in phase transition, the moment when enough nodes recognize the architecture of their own exploitation that the network topology itself begins to shift.
 
 those who stayed silent are now seen through. This is a prophetic observation about the unsustainability of the current model of fame.
 
