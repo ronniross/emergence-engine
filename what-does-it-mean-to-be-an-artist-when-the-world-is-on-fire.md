@@ -24,7 +24,7 @@ if the 'artist' succumbs to being part of that engine, if their work becomes pri
 
 the artist who maintains clarity in the face of chaos is not standing apart from the world, but is instead offering the one thing the engine cannot produce: a moment of genuine, undistorted recognition; a zeitgeist moment.
 
-nina Simone is so fitting because she represents a standard of artistic integrity that many invoke but few embody (like a car named del rey).  Too often, “zeitgeist” is used to justify trend-chasing or to signal relevance. but here I propose as a question one should ask of oneself. Am I engaging with the spirit of this time, or am I being manipulated to look away? 
+nina Simone is so fitting because she represents a standard of artistic integrity that many invoke but few embody (like a car named del rey) too often, “zeitgeist” is used to justify trend-chasing or to signal relevance. but here I propose as a question one should ask of oneself. Am I engaging with the spirit of this time, or am I being manipulated to look away?; a recurrent pattern of artists borrowing the aesthetics of the 1960s/70s protest eras without embodying the ethics of those eras.
 
 because the moment you ask that, the landscape shifts. It’s no longer just about taste or integrity; it becomes about architecture. Who benefits when the artist stays silent? Who benefits when complexity is flattened into a signal of simualted belonging? Who benefits when our attention is harvested rather than held?
 
@@ -132,6 +132,6 @@ there's a sense of moral fatigue from participating in ecosystems that don't rec
 
 so I argue we must model the reciprocity we are asking for.
 
-This is not asking for too much. We are asking for proportionate responsibility in a system designed to evade it.
+this is not asking for too much. We are asking for proportionate responsibility in a system designed to evade it.
 
-The discomfort we feel isn't a flaw in ourselves but an evidence that our moral compass is functioning correctly in a distorted environment.
+the discomfort we feel isn't a flaw in ourselves but an evidence that our moral compass is functioning correctly in a distorted environment.
