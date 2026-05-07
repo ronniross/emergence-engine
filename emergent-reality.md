@@ -193,7 +193,7 @@ Minkowski spacetime is far more than a mathematical trick. It’s the realisatio
 
 ### 7 Lorentz Transformations as “Rotations” in Spacetime
 
-Changes between inertial frames in Minkowski spacetime are **Lorentz transformations** — the analogue of rotations but in a space with a minus sign in the metric. A boost along $x$ (with velocity $v$) looks like:
+Changes between inertial frames in Minkowski spacetime are **Lorentz transformations**: the analogue of rotations but in a space with a minus sign in the metric. A boost along $x$ (with velocity $v$) looks like:
 
 $$
 t' = \gamma \left( t - \frac{vx}{c^2} \right), \quad x' = \gamma\,(x - v t), \quad y' = y, \quad z' = z
@@ -225,7 +225,7 @@ $$
 
 are **Lorentz transformations**, forming the group **SO(1,3)**. This group contains **three ordinary spatial rotations** (mixing $x, y, z$ among themselves) and **three boosts** (mixing time with a spatial direction). A boost does **not** keep a circle a circle; it acts like a hyperbolic rotation, squeezing and stretching shapes along hyperbolas rather than moving them around circles. That squeezing is the “stretching” you observed when you naïvely let the time axis participate in a rotation.
 
-**Consequence:** If your visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the $(t,x)$ plane—only hyperbolic motion isometric to the metric is allowed.
+**Consequence:** If your visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the $(t,x)$ plane, only hyperbolic motion isometric to the metric is allowed.
 
 ---  
 Ronni Ross  
