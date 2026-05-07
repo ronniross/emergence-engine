@@ -54,7 +54,7 @@ But then, Minkowski and other physicists noted that you *could* mathematically f
 
 If you multiply time by $i$ (the square root of -1), so $t = ict$, the minus sign in the equation disappears. The geometry becomes perfectly Euclidean mathematically. However, because time in the real world is not an imaginary number, the physical reality is that the time dimension fundamentally opposes the spatial dimensions. Space separates things; time brings them together (causally).
 
-## 2. The relationship between space and time
+## 2. The relationship between space and time in Special vs General Relativity
 
 It is important to clarify what "non-Euclidean" means in physics:
 **In Minkowski Spacetime (Special Relativity):** Space is strictly Euclidean (flat). Time is mathematically a flat straight line, but its relationship to space is hyperbolic. Therefore, the 4D whole is **pseudo-Euclidean**; I will explore that further later.
