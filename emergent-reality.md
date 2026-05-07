@@ -191,17 +191,17 @@ Minkowski spacetime is *flat* — it describes special relativity, where gravity
 
 Minkowski spacetime is far more than a mathematical trick. It’s the realisation that the universe is a 4D landscape where distances mix space and time with a minus sign, giving rise to a strict causal structure (light cones), a finite maximum speed, and the relativity of simultaneity. 
 
-### 7. Lorentz Transformations as “Rotations” in Spacetime
+### 7 Lorentz Transformations as “Rotations” in Spacetime
 
-Changes between inertial frames in Minkowski spacetime are **Lorentz transformations** — the analogue of rotations but in a space with a minus sign in the metric. A boost along \(x\) (with velocity \(v\)) looks like:
+Changes between inertial frames in Minkowski spacetime are **Lorentz transformations** — the analogue of rotations but in a space with a minus sign in the metric. A boost along $x$ (with velocity $v$) looks like:
 
-\[
+$$
 t' = \gamma \left( t - \frac{vx}{c^2} \right), \quad x' = \gamma\,(x - v t), \quad y' = y, \quad z' = z
-\]
+$$
 
-with \(\gamma = \frac{1}{\sqrt{1 - v^2/c^2}}\).
+with $\gamma = \frac{1}{\sqrt{1 - v^2/c^2}}$.
 
-These transformations preserve the interval \(\Delta s^2\), much like rotations preserve Euclidean distance. The only thing that’s absolute is the speed of light; all other quantities (time intervals, spatial lengths, simultaneity) are relative.
+These transformations preserve the interval $\Delta s^2$, much like rotations preserve Euclidean distance. The only thing that’s absolute is the speed of light; all other quantities (time intervals, spatial lengths, simultaneity) are relative.
 
 **This means that moving in space-time is equivalent to performing rotations (Lorentz transformations) on a hyperbola.**
 
@@ -210,18 +210,22 @@ This leads to hyperbolic geometry for boosts instead of circular rotations.
 #### 7.1 The two kinds of “rotation” are not the same operation
 
 In Euclidean 3‑space, you rotate a cube, and its metric:
-\[
+
+$$
 ds^2 = dx^2 + dy^2 + dz^2
-\]
+$$
+
 is preserved. The group of all such rotations is **SO(3)**: orthogonal matrices with determinant +1, leaving the Euclidean dot product unchanged.
 
 In Minkowski spacetime, the “rotations” that preserve the Lorentzian metric:
-\[
-ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2
-\]
-are **Lorentz transformations**, forming the group **SO(1,3)**. This group contains **three ordinary spatial rotations** (mixing \(x, y, z\) among themselves) and **three boosts** (mixing time with a spatial direction). A boost does **not** keep a circle a circle; it acts like a hyperbolic rotation, squeezing and stretching shapes along hyperbolas rather than moving them around circles. That squeezing is the “stretching” you observed when you naïvely let the time axis participate in a rotation.
 
-**Consequence:** If your visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the \((t,x)\) plane—only hyperbolic motion isometric to the metric is allowed.
+$$
+ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2
+$$
+
+are **Lorentz transformations**, forming the group **SO(1,3)**. This group contains **three ordinary spatial rotations** (mixing $x, y, z$ among themselves) and **three boosts** (mixing time with a spatial direction). A boost does **not** keep a circle a circle; it acts like a hyperbolic rotation, squeezing and stretching shapes along hyperbolas rather than moving them around circles. That squeezing is the “stretching” you observed when you naïvely let the time axis participate in a rotation.
+
+**Consequence:** If your visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the $(t,x)$ plane—only hyperbolic motion isometric to the metric is allowed.
 
 ---  
 Ronni Ross  
