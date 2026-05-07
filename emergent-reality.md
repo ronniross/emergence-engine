@@ -102,7 +102,6 @@ Imagine drawing a perfect hyperbola on a flat sheet of rubber.
 
 The rubber stretches and sags. If you look at the hyperbola you drew, the lines are now bent, stretched, and distorted by the curve of the rubber. It is no longer a mathematically perfect hyperbola on the macro scale. However, the *topology* of the drawing hasn't changed, it hasn't turned into a circle or a triangle. It is just a curved, warped hyperbola.
 
-
 ## 4 what "its relationship to space is hyperbolic" means.
 
 Now that we grasped why the minus sign makes time mathematically "opposite" to space, we can explore exactly what **"its relationship to space is hyperbolic"** means. 
@@ -125,6 +124,8 @@ In geometry, if you graph $x^2 + y^2$, you get a circle. But if you graph $x^2 -
 A hyperbola is not a closed loop like a circle. It looks like two open, sweeping curves facing away from each other. 
 
 Therefore, the relationship between space and time is **hyperbolic geometry**.
+
+I created this [visualizer](https://github.com/ronniross/ml-visual-engine/blob/main/standalone-visualizers/hyperbolic-relationship-between-space-and-time.html) that allowed me to visualize better the dynamic in play. 
 
 ### 4.3 What does this mean for physical reality?
 In standard space, if you turn your body, you are doing a **circular rotation**. You trade some X-direction for some Y-direction, but your total length stays the same.
