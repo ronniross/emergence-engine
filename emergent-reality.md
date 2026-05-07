@@ -187,7 +187,7 @@ And this also means that considering a space-time purely euclidean would be inco
 
 ### 6. From Special to General Relativity
 
-Minkowski spacetime is *flat* — it describes special relativity, where gravity is absent. In general relativity, spacetime can be curved by mass and energy. The Minkowski metric then becomes the local approximation: at every point, a small enough patch of curved spacetime looks Minkowskian. The metric tensor \(g_{\mu\nu}\) replaces \(\eta_{\mu\nu}\) and can vary across spacetime.
+Minkowski spacetime is *flat*, describing special relativity, where gravity is absent. In general relativity, spacetime can be curved by mass and energy. The Minkowski metric then becomes the local approximation: at every point, a small enough patch of curved spacetime looks Minkowskian. The metric tensor $$g_{\mu\nu}$$ replaces $$\eta_{\mu\nu}$$ and can vary across spacetime.
 
 Minkowski spacetime is far more than a mathematical trick. It’s the realisation that the universe is a 4D landscape where distances mix space and time with a minus sign, giving rise to a strict causal structure (light cones), a finite maximum speed, and the relativity of simultaneity. 
 
