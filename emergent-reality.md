@@ -100,7 +100,7 @@ Imagine drawing a perfect hyperbola on a flat sheet of rubber.
 **Special Relativity** is the flat sheet of rubber. The hyperbola is perfect.
 **General Relativity** is what happens when you put a heavy bowling ball on that sheet of rubber. 
 
-The rubber stretches and sags. If you look at the hyperbola you drew, the lines are now bent, stretched, and distorted by the curve of the rubber. It is no longer a mathematically perfect hyperbola on the macro scale. However, the *topology* of the drawing hasn't changed—it hasn't turned into a circle or a triangle. It is just a curved, warped hyperbola.
+The rubber stretches and sags. If you look at the hyperbola you drew, the lines are now bent, stretched, and distorted by the curve of the rubber. It is no longer a mathematically perfect hyperbola on the macro scale. However, the *topology* of the drawing hasn't changed, it hasn't turned into a circle or a triangle. It is just a curved, warped hyperbola.
 
 ---  
 Ronni Ross  
