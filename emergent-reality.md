@@ -221,6 +221,8 @@ These transformations preserve the interval $\Delta s^2$, much like rotations pr
 
 This leads to hyperbolic geometry for boosts instead of circular rotations.
 
+This means our physical spacetime is modeled as a Lorentzian manifold. 
+
 #### 7.1 The two kinds of “rotation” are not the same operation
 
 In Euclidean 3‑space, you rotate a cube, and its metric:
