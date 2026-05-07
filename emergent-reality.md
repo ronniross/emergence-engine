@@ -36,12 +36,12 @@ Minkowski model establishes:
 
 **a)** **The 3 Spatial Dimensions are Euclidean**
 If you "freeze" time (meaning no time passes, or $dt = 0$), the distance between any two points in Minkowski spacetime is calculated using the standard, thousands-of-years-old Pythagorean theorem. 
-The spatial distance ($ds$) is:  
+The spatial distance ($ds$) is:
 $ds^2 = dx^2 + dy^2 + dz^2$  
 This is standard **Euclidean geometry**, meaning space is "flat," parallel lines never intersect, and the angles of a triangle add up to 180 degrees. 
 
 **b)** **Time introduces a "Non-Euclidean" Signature**
-In standard 4D Euclidean geometry, a fourth dimension would simply be added with a plus sign:  
+In standard 4D Euclidean geometry, a fourth dimension would simply be added with a plus sign:
 $ds^2 = dw^2 + dx^2 + dy^2 + dz^2$.  
 
 But Minkowski realized that the universe doesn't work that way. To make the speed of light constant for all observers, time had to be subtracted, not added. The true equation for a "spacetime interval" is:
