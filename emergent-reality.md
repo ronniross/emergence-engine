@@ -248,7 +248,11 @@ are **Lorentz transformations**, forming the group **SO(1,3)**. This group conta
 
 **Consequence:** If your visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the $(t,x)$ plane, only hyperbolic motion isometric to the metric is allowed.
 
+<div align="center">
+
 # Part II
+
+</div>
 
 ## 1. Electromagnetism 
 
