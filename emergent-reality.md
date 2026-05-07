@@ -183,7 +183,7 @@ As we elucidated, physicists often refer to 4D spacetime (3 space + 1 time). But
 
 Spacetime is locally Minkowskian, meaning that at any single point in the universe, the geometry can be described by special relativity rather than 4D Euclidean space. This means it has one time and three space dimensions with a mixed signature \((-, +, +, +)\)
 
-And this also means that considering a space-time purely euclidean would no correct as time follows hyperbolic geometry and spatial dimensions follow.
+And this also means that considering a space-time purely euclidean would be incorrect as time follows hyperbolic geometry and spatial dimensions follows euclidean geometry.
 
 ---  
 Ronni Ross  
