@@ -244,6 +244,73 @@ are **Lorentz transformations**, forming the group **SO(1,3)**. This group conta
 
 **Consequence:** If your visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the $(t,x)$ plane, only hyperbolic motion isometric to the metric is allowed.
 
+# Part II
+
+## 1. Electromagnetism 
+
+An electromagnetic field (EMF) is a physical field produced by accelerating or stationary electric charges, combining both electric and magnetic force components. [1](https://edp.com/en/responsible-action/electromagnetic-fields)
+
+Consists of electric fields (produced by voltage) and magnetic fields (produced by current). 
+
+Propagation: When moving charges oscillate, they create electromagnetic waves that propagate through space at the speed of light.
+
+Types: The spectrum includes low-frequency electromagnetic fields (power lines), radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.Measurement: Magnetic components are commonly measured in milligauss $$mG\$$
+
+Maxwell’s equations, one of the most elegant and powerful sets of equations in physics, unified the field of classical electromagnetism by revealing the deep
+connection between electricity and magnetism [2](https://arxiv.org/pdf/2510.00170)
+
+These four equations, formulated by James Clerk Maxwell, comprehensively explain how electric charges and currents generate electric and magnetic fields and how these fields propagate through space and time. Maxwell’s equations not only explained static electric and magnetic phenomena but also predicted that changing electric fields could induce magnetic fields, and that changing magnetic fields could induce electric fields. [2](https://arxiv.org/pdf/2510.00170)
+
+This interplay theoretically established the existence of electromagnetic waves propagating at the speed of light and established the unification between optics and electromagnetism.
+These equations form the basis of many technologies we use in our daily lives, such as radio, television, cell phones, fiber optic communication, and electric motors.[2](https://arxiv.org/pdf/2510.00170)
+
+### 1.1 Understanding Maxwell’s equations
+
+The energy of an electromagnetic field is carried by the field itself and is expressed in terms of the electric field vector and the magnetic field vector. Maxwell’s equations describe how these fields exist and interact, while the energy attributed to the fields and the flow of that energy are also described through these vector fields. [2](https://arxiv.org/pdf/2510.00170)
+
+Maxwell’s equationsmathematically explain how electric charges and currents generate these fields andhow changing fields induce each other. Formulas for electromagnetic energy density and flux derived from these equations demonstrate that electromagnetic fields carry eand how this energy propagates through space. Electromagnetic field theory is a cornerstone of modern physics and engineering, with applications ranging from wireless communications to optics
+
+Electromagnetism has always been a subtle phenomenon. In the 19th century, scholars thought that electromagnetic waves must propagate in some sort of elusive medium, which was called aether. Later, the aether hypothesis was abandoned, and to this day, the classical theory of electromagnetism does not provide us with a clear answer to the question in which medium electric and magnetic fields propagate in vacuum. On the other hand, the theory of gravitation is rather well understood. General relativity explains that energy and mass tell the spacetime how to curve and spacetime tells masses how to move. Many eminent mathematical physicists have tried to understand electromagnetism directly as a consequence of general relativity. The brilliant mathematician Hermann Weyl had especially interesting theories in this regard. The Serbian inventor Nikola Tesla thought that electromagnetism contains essentially everything in our universe.[3](https://sciencex.com/news/2021-07-electromagnetism-property-spacetime.html)
+
+It is a modern mathematical consensus or a textbook definition summarizing the geometric formulation of physics, The electromagnetic field is fundamentally described by differential geometry on a four-dimensional Lorentzian manifold (spacetime)" .
+
+However, the concept within that statement was built by a specific lineage of mathematical physicists:
+
+Hermann Minkowski: In 1908, he introduced the concept of a four-dimensional manifold (spacetime) to explain Special Relativity, famously stating that space and time by themselves are doomed to fade away, leaving only a kind of union.
+
+Albert Einstein: He extended Minkowski's flat spacetime into a curved Lorentzian manifold to create General Relativity (1915).
+
+Hermann Weyl and Élie Cartan: In the 1910s and 1920s, they are the ones who truly translated electromagnetism into differential geometry. Weyl introduced the concept of "gauge" (Eichinvarianz) to explain electromagnetism as a geometric property of spacetime. Cartan introduced differential forms, which is the exact mathematical language used today to describe the electromagnetic field on a manifold.
+
+**(Note on Tesla: While Nikola Tesla was an unparalleled master of applied electromagnetism, he vehemently rejected Einstein's relativity and curved spacetime, holding onto the idea of a rigid aether. The geometric view of electromagnetism represents the Einsteinian/Weyl lineage, not Tesla's.)**
+
+In differential geometry, the electromagnetic field is described by a single mathematical object called the Faraday Tensor (or an electromagnetic 2-form). Geometry dictates that this tensor is a surface-like object woven into the fabric of spacetime.
+
+## 2. How Geometry Creates Electric and Magnetic Fields
+
+In differential geometry, the electromagnetic field is described by a single mathematical object called the **Faraday Tensor** (or an electromagnetic 2-form). Geometry dictates that this tensor is a surface-like object woven into the fabric of spacetime.
+
+Because spacetime has two types of dimensions: Space (positive) and Time (negative), the geometry naturally splits this unified electromagnetic field into two distinct phenomena depending on your perspective:
+
+**Electric Fields ($E$):** In differential geometry, an electric field is the part of the tensor that spans **one spatial dimension and the time dimension**. (e.g., $dx$ and $dt$). Because it involves time (which has the minus sign in the geometry), electric fields are associated with energy, work, and the pushing of charges over time.
+
+**Magnetic Fields ($B$):** A magnetic field is the part of the tensor that spans **two purely spatial dimensions** (e.g., $dx$ and $dy$). Because it does not involve time directly in its geometric orientation, magnetic fields do not do work on particles; they only change their spatial direction (curving their paths in space).
+
+#### 3. Maxwell's Equations as Pure Geometry
+In the 19th century, James Clerk Maxwell wrote his famous equations requiring mechanical models of aether. But when translated into differential geometry on a Lorentzian manifold, Maxwell's equations become breathtakingly simple and purely geometric. They reduce to two statements:
+1.  *The boundary of a boundary is zero.* (This geometrically explains why there are no magnetic monopoles and how Faraday's law of induction works).
+2.  *The geometry of the field responds to the presence of matter/currents.* 
+
+### The Ultimate Geometric Unification: Kaluza-Klein Theory
+Weyl tried to understand electromagnetism as a consequence of spacetime curvature. The most striking example of this was achieved by Theodor Kaluza and Oskar Klein in the 1920s. 
+
+They asked: *What if the universe is actually a 5-dimensional Lorentzian manifold?* (4 dimensions of space, 1 of time). 
+They discovered that if you write down Einstein's equations for gravity in a completely empty 5D universe, and then mathematically "roll up" or hide the 4th spatial dimension in a tiny circle, the 5D gravity equations perfectly split into two sets of 4D equations:
+1.  Einstein's General Relativity (Gravity)
+2.  Maxwell's Equations (Electromagnetism)
+
+In their framework, **electromagnetism is the geometry of gravity operating in a hidden, curled-up spatial dimension.** 
+
 ---  
 Ronni Ross  
 2026
