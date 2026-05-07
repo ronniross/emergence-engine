@@ -172,7 +172,7 @@ Lorentzian geometry was introduced a few years earlier, as the geometric framewo
 
 The timeline:
 
-- **1907–1908:** Hermann Minkowski showed that Einstein’s 1905 special relativity could be understood as the geometry of a four‑dimensional spacetime with a metric of signature \((+, -, -, -)\) (or \((-, +, +, +)\)). This flat spacetime—now called **Minkowski spacetime**, is the simplest example of a Lorentzian manifold.
+- **1907–1908:** Hermann Minkowski showed that Einstein’s 1905 special relativity could be understood as the geometry of a four‑dimensional spacetime with a metric of signature \((+, -, -, -)\) (or \((-, +, +, +)\)). This flat spacetime, now called **Minkowski spacetime**, is the simplest example of a Lorentzian manifold.
 - **1915:** Einstein’s general relativity turned this idea into a *curved* Lorentzian manifold, where the metric is determined dynamically by the Einstein field equations.
 
 So the *flat* Lorentzian geometry was fully described by Minkowski for special relativity, about seven years before general relativity extended it to curved spacetimes. The name “Lorentzian” honours H. A. Lorentz, whose transformations to a great extent inspired the structure, but the geometry itself was first laid out by Minkowski, not by the later development of general relativity.
