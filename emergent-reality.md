@@ -26,7 +26,7 @@ But I won't do it in a way that presumes I already know the way with a commit of
 
 I could not go on without sharing them with the collective; maybe I could, but I choose not to. Because this subject does something to the mind that is akin to healing (I assume the risk of this assumption); it's like a window into what one can discover after nurturing a more humble and robust mind.
 
-<center># Part I</center>
+<center> # Part I </center>
 
 ## 1. Minkowski Space Time
 
