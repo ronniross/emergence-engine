@@ -63,7 +63,6 @@ It is important to clarify what "non-Euclidean" means in physics:
 
 Within the Minkowski model of Special Relativity, the three spatial dimensions obey standard, flat Euclidean geometry, while the dimension of time operates on a completely different, mathematically "opposite" hyperbolic metric, making the unified 4D whole fundamentally non-Euclidean.
 
-
 This means that **In General Relativity, the relationship between space and time is still fundamentally hyperbolic, but those "hyperbolas" get warped, stretched, and tilted.** 
 
 To understand why, we have to look at the difference between the **local** and **global** geometry of the universe, and a mathematical concept called the "metric signature."
@@ -91,14 +90,13 @@ In General Relativity, mass and energy warp the grid. Spacetime becomes what mat
 
 Because of the $g$ terms (the curvature), if you draw a spacetime diagram over a large area (like the space around a black hole), the hyperbolic relationship gets distorted. The grid lines curve, and the light cones actually tilt and stretch. **So, globally, it is no longer a pristine, textbook hyperbola.**
 
-### 3. But the "Minus Sign" Survives (The Metric Signature)
+### 3. Fundamental hyperbolic nature
 Even though the shape gets warped, the **fundamental hyperbolic nature** of the spacetime relationship never disappears. 
 
 In General Relativity, no matter how badly a star or black hole warps spacetime, the math dictates that the time component ($dt^2$) and the space component ($dx^2$) must *always* have opposite signs. This is called preserving the **Lorentzian signature**. 
 
 If time and space had the same sign, spacetime would just be 4D space (a regular Riemannian manifold/Euclidean geometry). The fact that time always maintains that opposite sign means the fundamental geometry of the universe remains hyperbolic, a following the understanding of both General and Special Relativity.
 
-### 3.1 Analogy
 Imagine drawing a perfect hyperbola on a flat sheet of rubber. 
 **Special Relativity** is the flat sheet of rubber. The hyperbola is perfect.
 **General Relativity** is what happens when you put a heavy bowling ball on that sheet of rubber. 
