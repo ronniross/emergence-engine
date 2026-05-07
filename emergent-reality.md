@@ -145,18 +145,18 @@ Because space is added ($+$) and time is subtracted ($-$), their relationship gr
 
 #### 4.4.1 Types of Intervals
 
-Depending on the sign of \(\Delta s^2\), events can be related in three fundamentally different ways:
+Depending on the sign of $\Delta s^2$, events can be related in three fundamentally different ways:
 
--**Timelike separation** (\(\Delta s^2 < 0\)):  
+- **Timelike separation** ($\Delta s^2 < 0$):  
   It’s possible for a material particle to travel from the earlier event to the later one. There is a well-defined “proper time” between them, and every observer agrees which event happens first.
 
-- **Lightlike (null) separation** (\(\Delta s^2 = 0\)):  
+- **Lightlike (null) separation** ($\Delta s^2 = 0$):  
   Only light (or anything massless) can connect the two events. The path of a light ray in spacetime is a null line.
 
-- **Spacelike separation** (\(\Delta s^2 > 0\)):  
+- **Spacelike separation** ($\Delta s^2 > 0$):  
   No signal, no matter, no causal influence can go from one event to the other without exceeding the speed of light. Their temporal order depends on the observer’s frame — the “before and after” is not absolute.
 
-A **light cone** visualizes this. For any event \(P\), its future light cone contains all events that can be reached by signals from \(P\) travelling at or below \(c\). Its past light cone contains all events that could have influenced \(P\). Everything outside the cone is “elsewhere” — causally disconnected from \(P\).
+A **light cone** visualizes this. For any event $P$, its future light cone contains all events that can be reached by signals from $P$ travelling at or below $c$. Its past light cone contains all events that could have influenced $P$. Everything outside the cone is “elsewhere” — causally disconnected from $P$.
 
 ### 4.5 Lorentzian geometry
 
