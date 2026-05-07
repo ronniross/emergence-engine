@@ -56,7 +56,6 @@ If you multiply time by $i$ (the square root of -1), so $t = ict$, the minus sig
 
 ## 2. The relationship between space and time in Special vs General Relativity
 
-It is important to clarify what "non-Euclidean" means in physics:
 **In Minkowski Spacetime (Special Relativity):** Space is strictly Euclidean (flat). Time is mathematically a flat straight line, but its relationship to space is hyperbolic. Therefore, the 4D whole is **pseudo-Euclidean**; I will explore that further later.
 
 **In General Relativity:** Einstein later realized that gravity actually *warps* and curves space and time. Therefore, in General Relativity, **both space and time are genuinely non-Euclidean** (curved). Mass tells spacetime how to curve, and curved spacetime tells mass how to move.
