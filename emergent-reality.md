@@ -397,6 +397,24 @@ While Planck discovered the quantum of action (1900), he regarded it as a mathem
 
 The founders like Heisenberg and Schrödinger created the theory,Paul Dirac (1930), John von Neumann (1932), Wolfgang Pauli (1933), David Bohm (1951) turned it into a consistent, teachable system. https://link.springer.com/chapter/10.1007/978-3-662-11314-1_3
 
+### 1.2 HILBERT SPACES
+
+Hilbert spaces provide the mathematical framework used to describe quantum systems. Quantum states are represented as elements of a Hilbert space, while the dimension of the Hilbert space relates to the number of possible configurations of the system. This implies that quantum states are represented as vectors.  https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/
+
+The inner product is used to compute the overlap between states. The physical interpretation of the inner product in quantum mechanics relates to the measurement probabilities.  https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/
+
+A Hilbert space is the fundamental mathematical framework for quantum mechanics, acting as the vector space where quantum states (vectors) exist. While it is indispensable for defining quantum states and superposition, it is also used in string theory to describe the state of a vibrating string. https://quantum.phys.cmu.edu/QCQI/qitd114.pdf  https://www.preprints.org/frontend/manuscript/5c6955ee1eedca0e1d6de43a4a93806f/download_pub
+
+In Hilbert space, the dimensions are not all spatial. While they can represent spatial points in specific contexts, they are generally abstract mathematical dimensions representing the possible states, energy levels, or momentum of a system. They are usually infinite-dimensional and map mathematical functions rather than simple physical \(x, y, z\) coordinates
+
+While they CAN ALSO BE used to create mathematical objects that use those coordinate as spatial dimensions, like 4D: Tesseract (also 4-cube or tetract)5D: Penteract (or 5-cube)6D: Hexeract (or 6-cube)7D: Hepteract (or 7-cube)8D: Octeract (or 8-cube)9D: Enneract (or 9-cube)10D: Dekaract (or 10-cube) and on.
+
+Hilbert space is a complex vector space that allows for the superposition of states and the calculation of probabilities. https://www.quora.com/Why-is-Hilbert-space-useful-in-quantum-mechanics
+
+A state vector, and it is most commonly written using bra-ket notation as a ket, denoted by the symbol \(\vert{} \psi \rangle\), is an abstract "elemental" vector in a Hilbert space that can represent any number of dimensions, from simple 2D systems to infinite-dimensional ones. https://www.sciencedirect.com/topics/mathematics/ket-vector
+
+Finite Dimensions: In a 2D system like a quantum bit (qubit), the ket can be written as a column vector with two components.Infinite Dimensions: In systems like a particle's position, the ket represents a wave function which effectively has an infinite number of "components".Flexibility: The power of the \(\vert{} \psi \rangle\) notation is that it represents the "state" of the system regardless of how many dimensions it has or what coordinate system (basis) you use. https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/ https://www.reddit.com/r/AskPhysics/comments/ha459s/why_does_quantum_mechanics_need_a_complex_hilbert/
+
 ## 2. Standard Model of particle physics 
 
 <div align="center">
