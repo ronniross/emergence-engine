@@ -419,11 +419,23 @@ $$
 
 ### 1.2 The nervous system uses specific geometries to capture and process data. 
 
+### Euclidean Thought
+
+Descartes modeled his philosophical reasoning on the structure of Euclidean geometry, using axioms and deductions to build secure knowledge. [4](https://philosophy.stackexchange.com/questions/7019/what-does-it-mean-to-have-a-sense-of-geometry-innate-to-us-if-that-is-in-fact)
+
+in his Meditations on First Philosophy, proposed that the mind can achieve certainty through clear and distinct perceptions, which he often modeled after the rigor of geometry. [5](https://plato.stanford.edu/entries/descartes-epistemology/)
+
+Many philosophers believe that thought, logic, and mathematics are innate to the human mind and follow necessary structures (or "geometries") to make sense of the world. [6](https://en.wikisource.org/wiki/The_Philosophical_Works_of_Decartes/Volume_1/Meditations_on_First_Philosophy/Meditation_5)
+
+ Even when sensory experience is doubted, geometric truths (like \(1+1=2\) or properties of triangles) seem to remain certain
+
+### My addition
+
 The way biological retinas (cone cells) map space or how the cochlea decomposes frequencies is deeply euclidean and related to detec spatial dimensions. 
 
-Soundwaves are pressure variations (\(p(x,t)\)) in the air. [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123622/)
+Soundwaves are pressure variations (\(p(x,t)\)) in the air. [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123622/)
 
-The human ear converts these into a "map" of vibrations along the basilar membrane within the cochlea, which is a 3D coiled structure. [5](https://entokey.com/auditory-psychophysics/)
+The human ear converts these into a "map" of vibrations along the basilar membrane within the cochlea, which is a 3D coiled structure. [8](https://entokey.com/auditory-psychophysics/)
 
 The coiling (spiral form) and the graded stiffness of the human basilar membrane are essential to the mechanics, specifically enhancing low-frequency hearing, which follows Differential Geometry.
 
@@ -431,7 +443,7 @@ In humans, The outer hair cells act as feedback controllers (like tiny piezo-ele
 
 This mechanical vibration is converted into electrical signals through a process called mechanotransduction.
 
-Hair cells (specifically the inner hair cells) on the basilar membrane have hair-like protrusions (stereocilia).Fluid movements caused by sound waves bend these stereocilia, opening ion channels and creating electrical impulses.These signals are transmitted via the auditory nerve to the brain as action potentials. [6](https://journals.physiology.org/doi/abs/10.1152/physrev.00002.2002)
+Hair cells (specifically the inner hair cells) on the basilar membrane have hair-like protrusions (stereocilia).Fluid movements caused by sound waves bend these stereocilia, opening ion channels and creating electrical impulses.These signals are transmitted via the auditory nerve to the brain as action potentials. [9](https://journals.physiology.org/doi/abs/10.1152/physrev.00002.2002)
 
 This is a combination of strict, frequency-specific physical geometry (the cochlea) and highly adaptable neural processing (the brain).
 
