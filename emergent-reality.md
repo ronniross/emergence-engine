@@ -415,6 +415,8 @@ A state vector, and it is most commonly written using bra-ket notation as a ket,
 
 Finite Dimensions: In a 2D system like a quantum bit (qubit), the ket can be written as a column vector with two components.Infinite Dimensions: In systems like a particle's position, the ket represents a wave function which effectively has an infinite number of "components".Flexibility: The power of the \(\vert{} \psi \rangle\) notation is that it represents the "state" of the system regardless of how many dimensions it has or what coordinate system (basis) you use. https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/ https://www.reddit.com/r/AskPhysics/comments/ha459s/why_does_quantum_mechanics_need_a_complex_hilbert/
 
+A particle's "state" (where it might be and how it moves) is represented as a vector in a Hilbert space.
+
 ## 2. Standard Model of particle physics 
 
 <div align="center">
