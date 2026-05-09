@@ -198,7 +198,7 @@ Topologically, the plane $\mathbb{R}^2$ is identical to the Euclidean plane and 
 
 The geometric nature enters via the **metric signature**. A spatial dimension is one that contributes with the same sign as the Euclidean dimensions in the spacetime interval. In the standard convention $(-, +, +, +)$, the three $x, y, z$ dimensions are spatial because they appear with a plus sign in $ds^2$. Their mutual geometry is Euclidean: free fall into a local inertial frame and you recover $dx^2 + dy^2 + dz^2$. Rotations among only those coordinates live in the group SO(3) and preserve circles, lengths, and angles exactly as Euclidean intuition demands.
 
-The time coordinate $t$ appears with a minus sign. It is not a spatial dimension. It is a *temporal* dimension. The minus sign radically alters the geometry: the set of points at a constant interval from the origin forms a hyperbola, not a sphere; the transformations mixing time and space become hyperbolic rotations (Lorentz boosts) instead of circular rotations; and the causal structure of light cones emerges. A temporal dimension cannot be rotated into a spatial one by any physical motion—even the fastest boost only mixes them along hyperbolic paths, preserving the light cone and the minus sign.
+The time coordinate $t$ appears with a minus sign. It is not a spatial dimension. It is a *temporal* dimension. The minus sign radically alters the geometry: the set of points at a constant interval from the origin forms a hyperbola, not a sphere; the transformations mixing time and space become hyperbolic rotations (Lorentz boosts) instead of circular rotations; and the causal structure of light cones emerges. A temporal dimension cannot be rotated into a spatial one by any physical motion, even the fastest boost only mixes them along hyperbolic paths, preserving the light cone and the minus sign.
 
 So when physicists say “4D spacetime,” the “D” stands for *dimensionality of the manifold*, not “4 spatial directions.” It means the arena in which events unfold has four coordinates, one of which is of a fundamentally different type. Locally, at any point, the tangent space is **Minkowski space**, not $\mathbb{R}^4$. This is the meaning of “locally Minkowskian”: the metric signature is invariant, $(-, +, +, +)$, never morphing into a pure Euclidean signature $(+, +, +, +)$. General relativity extends this by allowing the metric to vary from point to point, but it forbids any *signature change*: the light cone can tilt and stretch, but a minus sign never becomes a plus. The manifold remains a *Lorentzian* manifold, with one temporal and three spatial dimensions.
 
@@ -554,11 +554,11 @@ In many theoretical models (such as those discussed in and), the "throat" of the
 
 Topologically, a wormhole is a bridge connecting two disparate regions of spacetime, often conceptualized as a "tunnel" (or a cylinder-like connection) rather than just a simple geometric conic section like a hyperbola."
 
-A "spherical wormhole" describes the 3D visual appearance of such a structure from the outside—a sphere of light rather than a 2D hole
+A "spherical wormhole" describes the 3D visual appearance of such a structure from the outside, a sphere of light rather than a 2D hole.
 
 A wormhole appears as a 3D sphere because it is a "hole" in 3-dimensional space. While common diagrams show them as 2D circles on a folded sheet of paper, our reality adds an extra dimension, turning that circle into a sphere.
 
-In a 2D spatial world (like a piece of paper), a hole is a 1D line or circle. In our 3D world, a hole that connects two points in space must be a 3D object—a sphere.
+In a 2D spatial world (like a piece of paper), a hole is a 1D line or circle. In our 3D world, a hole that connects two points in space must be a 3D object, a sphere.
 
 While the math for traversable wormholes was pioneered by Kip Thorne and his students in 1988, the definitive 3D visual we recognize today was perfected for the movie Interstellar (2014). [26](https://arxiv.org/abs/1502.03809)
 
