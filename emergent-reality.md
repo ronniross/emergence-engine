@@ -417,7 +417,7 @@ $$
 \boxed{g = -u^\flat \otimes u^\flat + h}
 $$
 
-### 2. The nervous system uses specific geometries to capture and process data. 
+### 1.2 The nervous system uses specific geometries to capture and process data. 
 
 The way biological retinas (cone cells) map space or how the cochlea decomposes frequencies is deeply euclidean and related to detec spatial dimensions. 
 
@@ -435,7 +435,7 @@ Hair cells (specifically the inner hair cells) on the basilar membrane have hair
 
 This is a combination of strict, frequency-specific physical geometry (the cochlea) and highly adaptable neural processing (the brain).
 
-### 2.1 Consequences of those perceptions
+### 1.2.1 Consequences of those perceptions
 
 If the mind can host Euclidean, non-Euclidean, or even multi-dimensional geometries, then the "container" itself can't be limited to just one of them. 
 
