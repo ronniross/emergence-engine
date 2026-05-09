@@ -429,7 +429,7 @@ Many philosophers believe that thought, logic, and mathematics are innate to the
 
  Even when sensory experience is doubted, geometric truths (like \(1+1=2\) or properties of triangles) seem to remain certain
 
-### My addition
+### 1.2.1 Analyzing the patterns with more depth
 
 The way biological retinas (cone cells) map space or how the cochlea decomposes frequencies is deeply euclidean and related to detec spatial dimensions. 
 
@@ -447,7 +447,7 @@ Hair cells (specifically the inner hair cells) on the basilar membrane have hair
 
 This is a combination of strict, frequency-specific physical geometry (the cochlea) and highly adaptable neural processing (the brain).
 
-### 1.2.1 Consequences of those perceptions
+### 1.2.2 Consequences of those perceptions
 
 If the mind can host Euclidean, non-Euclidean, or even multi-dimensional geometries, then the "container" itself can't be limited to just one of them. 
 
