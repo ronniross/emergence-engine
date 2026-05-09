@@ -361,6 +361,28 @@ They discovered that if you write down Einstein's equations for gravity in a com
 
 In their framework, **electromagnetism is the geometry of gravity operating in a hidden, curled-up spatial dimension.** 
 
+<div align="center">
+
+# Part III
+
+</div>
+
+## Quantum mechanics
+
+## Standard Model of particle physics 
+
+<div align="center">
+
+# Part IV
+
+</div>
+
+## Holographic Principle/Model
+
+## String Theory
+
+
+
 ---  
 Ronni Ross  
 2026
