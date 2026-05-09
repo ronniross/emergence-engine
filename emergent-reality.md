@@ -367,9 +367,37 @@ In their framework, **electromagnetism is the geometry of gravity operating in a
 
 </div>
 
-## Quantum mechanics
+## 1. Quantum mechanics
 
-## Standard Model of particle physics 
+In Quantum Mechanics particles exist as wavefunctions (\(\Psi \)) in space, representing a probability distribution of where a particle might be found. While they exhibit wave-like behavior when propagating (superposition), they behave as localized points only upon measurement or observation, a process known as wave function collapse
+
+Before observation, a particle exists in multiple positions/states simultaneously (superposition),
+
+Interaction with an observer forces the wavefunction to collapse into one definite position.
+
+While a particle is often treated mathematically as a point, its existence as a wavefunction means it is spread across a range of potential positions until localized.
+
+While some interpretations (like Pilot Wave) treat the wave as a physical field, others, such as the Copenhagen interpretation, define it purely as a tool for calculating probabilities.
+
+Max Planck is generally considered the father of quantum theory for introducing the concept of energy quanta in 1900. However, the development of quantum mechanics in the 1920s was a collective effort led by key figures, most notably Werner Heisenberg and Erwin Schrödinger, often supported by Niels Bohr's interpretations. youtube.com/watch?v=OLmXNepwaVw&t=320  https://pubs.acs.org/doi/10.1021/acs.iecr.5c00942 https://link.springer.com/chapter/10.1007/978-3-642-69365-6_3
+
+Max Planck (1900): Introduced Planck's constant (\(h\)) and the idea that energy is radiated in discrete "quanta," resolving the black-body radiation problem. https://link.springer.com/chapter/10.1007/978-3-642-69365-6_3
+
+Albert Einstein (1905): Extended quantum theory to light, proposing that light consists of particles (photons) to explain the photoelectric effect.
+
+Niels Bohr (1913/1920s): Developed the Bohr model of the atom and the Copenhagen interpretation of quantum mechanics, emphasizing complementarity. https://plato.stanford.edu/entries/qm-copenhagen/
+
+Werner Heisenberg (1925): Developed matrix mechanics, the first complete, mathematically rigorous formulation of quantum mechanics, and the uncertainty principle.
+
+Erwin Schrödinger (1926): Formulated wave mechanics and the Schrödinger equation, which describes how quantum systems evolve.
+
+Paul Dirac (1920s): Combined quantum mechanics with special relativity, creating quantum electrodynamics.
+
+While Planck discovered the quantum of action (1900), he regarded it as a mathematical act of desperation rather than a physical reality, leaving others to develop the full theory. https://www.esa.int/Science_Exploration/Space_Science/Planck/Max_Planck_Originator_of_quantum_theory
+
+The founders like Heisenberg and Schrödinger created the theory,Paul Dirac (1930), John von Neumann (1932), Wolfgang Pauli (1933), David Bohm (1951) turned it into a consistent, teachable system. https://link.springer.com/chapter/10.1007/978-3-662-11314-1_3
+
+## 2. Standard Model of particle physics 
 
 <div align="center">
 
