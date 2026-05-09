@@ -379,13 +379,13 @@ While a particle is often treated mathematically as a point, its existence as a 
 
 While some interpretations (like Pilot Wave) treat the wave as a physical field, others, such as the Copenhagen interpretation, define it purely as a tool for calculating probabilities.
 
-Max Planck is generally considered the father of quantum theory for introducing the concept of energy quanta in 1900. However, the development of quantum mechanics in the 1920s was a collective effort led by key figures, most notably Werner Heisenberg and Erwin Schrödinger, often supported by Niels Bohr's interpretations. youtube.com/watch?v=OLmXNepwaVw&t=320  https://pubs.acs.org/doi/10.1021/acs.iecr.5c00942 https://link.springer.com/chapter/10.1007/978-3-642-69365-6_3
+Max Planck is generally considered the father of quantum theory for introducing the concept of energy quanta in 1900. However, the development of quantum mechanics in the 1920s was a collective effort led by key figures, most notably Werner Heisenberg and Erwin Schrödinger, often supported by Niels Bohr's interpretations. [4](youtube.com/watch?v=OLmXNepwaVw&t=320)  [5](https://pubs.acs.org/doi/10.1021/acs.iecr.5c00942) [6](https://link.springer.com/chapter/10.1007/978-3-642-69365-6_3)
 
-Max Planck (1900): Introduced Planck's constant (\(h\)) and the idea that energy is radiated in discrete "quanta," resolving the black-body radiation problem. https://link.springer.com/chapter/10.1007/978-3-642-69365-6_3
+Max Planck (1900): Introduced Planck's constant (\(h\)) and the idea that energy is radiated in discrete "quanta," resolving the black-body radiation problem. [7](https://link.springer.com/chapter/10.1007/978-3-642-69365-6_3)
 
 Albert Einstein (1905): Extended quantum theory to light, proposing that light consists of particles (photons) to explain the photoelectric effect.
 
-Niels Bohr (1913/1920s): Developed the Bohr model of the atom and the Copenhagen interpretation of quantum mechanics, emphasizing complementarity. https://plato.stanford.edu/entries/qm-copenhagen/
+Niels Bohr (1913/1920s): Developed the Bohr model of the atom and the Copenhagen interpretation of quantum mechanics, emphasizing complementarity. [8](https://plato.stanford.edu/entries/qm-copenhagen/)
 
 Werner Heisenberg (1925): Developed matrix mechanics, the first complete, mathematically rigorous formulation of quantum mechanics, and the uncertainty principle.
 
@@ -393,27 +393,27 @@ Erwin Schrödinger (1926): Formulated wave mechanics and the Schrödinger equati
 
 Paul Dirac (1920s): Combined quantum mechanics with special relativity, creating quantum electrodynamics.
 
-While Planck discovered the quantum of action (1900), he regarded it as a mathematical act of desperation rather than a physical reality, leaving others to develop the full theory. https://www.esa.int/Science_Exploration/Space_Science/Planck/Max_Planck_Originator_of_quantum_theory
+While Planck discovered the quantum of action (1900), he regarded it as a mathematical act of desperation rather than a physical reality, leaving others to develop the full theory. [9](https://www.esa.int/Science_Exploration/Space_Science/Planck/Max_Planck_Originator_of_quantum_theory)
 
-The founders like Heisenberg and Schrödinger created the theory,Paul Dirac (1930), John von Neumann (1932), Wolfgang Pauli (1933), David Bohm (1951) turned it into a consistent, teachable system. https://link.springer.com/chapter/10.1007/978-3-662-11314-1_3
+The founders like Heisenberg and Schrödinger created the theory,Paul Dirac (1930), John von Neumann (1932), Wolfgang Pauli (1933), David Bohm (1951) turned it into a consistent, teachable system. [10](https://link.springer.com/chapter/10.1007/978-3-662-11314-1_3)
 
 ### 1.2 HILBERT SPACES
 
-Hilbert spaces provide the mathematical framework used to describe quantum systems. Quantum states are represented as elements of a Hilbert space, while the dimension of the Hilbert space relates to the number of possible configurations of the system. This implies that quantum states are represented as vectors.  https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/
+Hilbert spaces provide the mathematical framework used to describe quantum systems. Quantum states are represented as elements of a Hilbert space, while the dimension of the Hilbert space relates to the number of possible configurations of the system. This implies that quantum states are represented as vectors.  [11](https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/)
 
-The inner product is used to compute the overlap between states. The physical interpretation of the inner product in quantum mechanics relates to the measurement probabilities.  https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/
+The inner product is used to compute the overlap between states. The physical interpretation of the inner product in quantum mechanics relates to the measurement probabilities. [11](https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/)
 
-A Hilbert space is the fundamental mathematical framework for quantum mechanics, acting as the vector space where quantum states (vectors) exist. While it is indispensable for defining quantum states and superposition, it is also used in string theory to describe the state of a vibrating string. https://quantum.phys.cmu.edu/QCQI/qitd114.pdf  https://www.preprints.org/frontend/manuscript/5c6955ee1eedca0e1d6de43a4a93806f/download_pub
+A Hilbert space is the fundamental mathematical framework for quantum mechanics, acting as the vector space where quantum states (vectors) exist. While it is indispensable for defining quantum states and superposition, it is also used in string theory to describe the state of a vibrating string. [12](https://quantum.phys.cmu.edu/QCQI/qitd114.pdf)  [13](https://www.preprints.org/frontend/manuscript/5c6955ee1eedca0e1d6de43a4a93806f/download_pub)
 
 In Hilbert space, the dimensions are not all spatial. While they can represent spatial points in specific contexts, they are generally abstract mathematical dimensions representing the possible states, energy levels, or momentum of a system. They are usually infinite-dimensional and map mathematical functions rather than simple physical \(x, y, z\) coordinates
 
 While they CAN ALSO BE used to create mathematical objects that use those coordinate as spatial dimensions, like 4D: Tesseract (also 4-cube or tetract)5D: Penteract (or 5-cube)6D: Hexeract (or 6-cube)7D: Hepteract (or 7-cube)8D: Octeract (or 8-cube)9D: Enneract (or 9-cube)10D: Dekaract (or 10-cube) and on.
 
-Hilbert space is a complex vector space that allows for the superposition of states and the calculation of probabilities. https://www.quora.com/Why-is-Hilbert-space-useful-in-quantum-mechanics
+Hilbert space is a complex vector space that allows for the superposition of states and the calculation of probabilities. [14](https://www.quora.com/Why-is-Hilbert-space-useful-in-quantum-mechanics)
 
-A state vector, and it is most commonly written using bra-ket notation as a ket, denoted by the symbol \(\vert{} \psi \rangle\), is an abstract "elemental" vector in a Hilbert space that can represent any number of dimensions, from simple 2D systems to infinite-dimensional ones. https://www.sciencedirect.com/topics/mathematics/ket-vector
+A state vector, and it is most commonly written using bra-ket notation as a ket, denoted by the symbol \(\vert{} \psi \rangle\), is an abstract "elemental" vector in a Hilbert space that can represent any number of dimensions, from simple 2D systems to infinite-dimensional ones. [15](https://www.sciencedirect.com/topics/mathematics/ket-vector)
 
-Finite Dimensions: In a 2D system like a quantum bit (qubit), the ket can be written as a column vector with two components.Infinite Dimensions: In systems like a particle's position, the ket represents a wave function which effectively has an infinite number of "components".Flexibility: The power of the \(\vert{} \psi \rangle\) notation is that it represents the "state" of the system regardless of how many dimensions it has or what coordinate system (basis) you use. https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/ https://www.reddit.com/r/AskPhysics/comments/ha459s/why_does_quantum_mechanics_need_a_complex_hilbert/
+Finite Dimensions: In a 2D system like a quantum bit (qubit), the ket can be written as a column vector with two components.Infinite Dimensions: In systems like a particle's position, the ket represents a wave function which effectively has an infinite number of "components".Flexibility: The power of the \(\vert{} \psi \rangle\) notation is that it represents the "state" of the system regardless of how many dimensions it has or what coordinate system (basis) you use. [11](https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/) [16](https://www.reddit.com/r/AskPhysics/comments/ha459s/why_does_quantum_mechanics_need_a_complex_hilbert/)
 
 A particle's "state" (where it might be and how it moves) is represented as a vector in a Hilbert space.
 
@@ -469,11 +469,11 @@ $$
 
 ### Euclidean Thought
 
-Descartes modeled his philosophical reasoning on the structure of Euclidean geometry, using axioms and deductions to build secure knowledge. [4](https://philosophy.stackexchange.com/questions/7019/what-does-it-mean-to-have-a-sense-of-geometry-innate-to-us-if-that-is-in-fact)
+Descartes modeled his philosophical reasoning on the structure of Euclidean geometry, using axioms and deductions to build secure knowledge. [17](https://philosophy.stackexchange.com/questions/7019/what-does-it-mean-to-have-a-sense-of-geometry-innate-to-us-if-that-is-in-fact)
 
-in his Meditations on First Philosophy, proposed that the mind can achieve certainty through clear and distinct perceptions, which he often modeled after the rigor of geometry. [5](https://plato.stanford.edu/entries/descartes-epistemology/)
+in his Meditations on First Philosophy, proposed that the mind can achieve certainty through clear and distinct perceptions, which he often modeled after the rigor of geometry. [18](https://plato.stanford.edu/entries/descartes-epistemology/)
 
-Many philosophers believe that thought, logic, and mathematics are innate to the human mind and follow necessary structures (or "geometries") to make sense of the world. [6](https://en.wikisource.org/wiki/The_Philosophical_Works_of_Decartes/Volume_1/Meditations_on_First_Philosophy/Meditation_5)
+Many philosophers believe that thought, logic, and mathematics are innate to the human mind and follow necessary structures (or "geometries") to make sense of the world. [19](https://en.wikisource.org/wiki/The_Philosophical_Works_of_Decartes/Volume_1/Meditations_on_First_Philosophy/Meditation_5)
 
  Even when sensory experience is doubted, geometric truths (like \(1+1=2\) or properties of triangles) seem to remain certain
 
@@ -481,9 +481,9 @@ Many philosophers believe that thought, logic, and mathematics are innate to the
 
 The way biological retinas (cone cells) map space or how the cochlea decomposes frequencies is deeply euclidean and related to detec spatial dimensions. 
 
-Soundwaves are pressure variations (\(p(x,t)\)) in the air. [7](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123622/)
+Soundwaves are pressure variations (\(p(x,t)\)) in the air. [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123622/)
 
-The human ear converts these into a "map" of vibrations along the basilar membrane within the cochlea, which is a 3D coiled structure. [8](https://entokey.com/auditory-psychophysics/)
+The human ear converts these into a "map" of vibrations along the basilar membrane within the cochlea, which is a 3D coiled structure. [21](https://entokey.com/auditory-psychophysics/)
 
 The coiling (spiral form) and the graded stiffness of the human basilar membrane are essential to the mechanics, specifically enhancing low-frequency hearing, which follows Differential Geometry.
 
@@ -491,7 +491,7 @@ In humans, The outer hair cells act as feedback controllers (like tiny piezo-ele
 
 This mechanical vibration is converted into electrical signals through a process called mechanotransduction.
 
-Hair cells (specifically the inner hair cells) on the basilar membrane have hair-like protrusions (stereocilia).Fluid movements caused by sound waves bend these stereocilia, opening ion channels and creating electrical impulses.These signals are transmitted via the auditory nerve to the brain as action potentials. [9](https://journals.physiology.org/doi/abs/10.1152/physrev.00002.2002)
+Hair cells (specifically the inner hair cells) on the basilar membrane have hair-like protrusions (stereocilia).Fluid movements caused by sound waves bend these stereocilia, opening ion channels and creating electrical impulses.These signals are transmitted via the auditory nerve to the brain as action potentials. [22](https://journals.physiology.org/doi/abs/10.1152/physrev.00002.2002)
 
 This is a combination of strict, frequency-specific physical geometry (the cochlea) and highly adaptable neural processing (the brain).
 
