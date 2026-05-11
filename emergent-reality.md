@@ -425,7 +425,24 @@ A particle's "state" (where it might be and how it moves) is represented as a ve
 
 </div>
 
-## Holographic Principle/Model
+## 1. Holographic Principle/Model
+
+### 1.1 Black Holes and Information
+The holographic principle began not with the universe, but with black holes. 
+
+*   **The Bekenstein-Hawking Entropy (1970s):** Physicist Jacob Bekenstein realized that if you throw matter into a black hole, the universe loses entropy (disorder). To save the laws of thermodynamics, he proposed that black holes must have their own entropy, proportional to the **surface area** of their event horizon—not their internal 3D volume. Stephen Hawking soon proved this using quantum mechanics, showing black holes emit radiation.
+*   **Gerard ’t Hooft (1993):** The Dutch physicist ’t Hooft was the first to explicitly propose the **Holographic Principle**. He realized that if the information (entropy) of a black hole is perfectly described by its 2D surface area, the same rule must apply to any region of space. He proposed that the total information contained in any 3D volume of space cannot exceed the information that can be written on the 2D boundary surrounding it. 
+*   **Leonard Susskind (1995):** Susskind gave the principle its name and integrated it into String Theory. He used the analogy of a hologram: just as a 2D piece of holographic film can project a 3D image, the 3D reality we experience might be a projection of 2D information living on the boundary of our universe.
+
+### 1.2 The Enhancement: AdS/CFT Correspondence
+For a few years, the holographic principle was just a profound conjecture. Then, it was drastically enhanced and mathematically proven (in a specific type of universe) by the Argentine physicist **Juan Maldacena in 1997**.
+
+Maldacena published a paper proposing the **AdS/CFT Correspondence**. 
+*   **AdS (Anti-de Sitter space):** A 3D (or higher) universe that contains gravity and string theory.
+*   **CFT (Conformal Field Theory):** A 2D (or lower) quantum field theory that sits on the boundary of that universe and *does not contain gravity*.
+
+Maldacena showed a perfect mathematical duality between the two. Any calculation you do involving gravity in the 3D bulk space can be translated perfectly into a quantum calculation on the 2D boundary without gravity. This proved that a universe with gravity is holographically equivalent to a quantum system in one less dimension without gravity. This remains one of the most cited paper in the history of high-energy physics. https://science.thewire.in/the-sciences/ads-cft-correspondence-maldacena-25-years/ https://www.vox.com/xpress/2014/11/3/7149749/top-science-papers-citations-nature
+
 
 ## String Theory
 
