@@ -441,7 +441,7 @@ Maldacena published a paper proposing the **AdS/CFT Correspondence**.
 *   **AdS (Anti-de Sitter space):** A 3D (or higher) universe that contains gravity and string theory.
 *   **CFT (Conformal Field Theory):** A 2D (or lower) quantum field theory that sits on the boundary of that universe and *does not contain gravity*.
 
-Maldacena showed a perfect mathematical duality between the two. Any calculation you do involving gravity in the 3D bulk space can be translated perfectly into a quantum calculation on the 2D boundary without gravity. This proved that a universe with gravity is holographically equivalent to a quantum system in one less dimension without gravity. This remains one of the most cited paper in the history of high-energy physics. https://science.thewire.in/the-sciences/ads-cft-correspondence-maldacena-25-years/ https://www.vox.com/xpress/2014/11/3/7149749/top-science-papers-citations-nature
+Maldacena showed a perfect mathematical duality between the two. Any calculation you do involving gravity in the 3D bulk space can be translated perfectly into a quantum calculation on the 2D boundary without gravity. This proved that a universe with gravity is holographically equivalent to a quantum system in one less dimension without gravity. This remains one of the most cited paper in the history of high-energy physics. [17](https://science.thewire.in/the-sciences/ads-cft-correspondence-maldacena-25-years/) [18](https://www.vox.com/xpress/2014/11/3/7149749/top-science-papers-citations-nature)
 
 ### 1.3 Spacetime as a "Hilbert Space" (Emergent Spacetime)
 
@@ -501,11 +501,11 @@ $$
 
 ### Euclidean Thought
 
-Descartes modeled his philosophical reasoning on the structure of Euclidean geometry, using axioms and deductions to build secure knowledge. [17](https://philosophy.stackexchange.com/questions/7019/what-does-it-mean-to-have-a-sense-of-geometry-innate-to-us-if-that-is-in-fact)
+Descartes modeled his philosophical reasoning on the structure of Euclidean geometry, using axioms and deductions to build secure knowledge. [19](https://philosophy.stackexchange.com/questions/7019/what-does-it-mean-to-have-a-sense-of-geometry-innate-to-us-if-that-is-in-fact)
 
-in his Meditations on First Philosophy, proposed that the mind can achieve certainty through clear and distinct perceptions, which he often modeled after the rigor of geometry. [18](https://plato.stanford.edu/entries/descartes-epistemology/)
+in his Meditations on First Philosophy, proposed that the mind can achieve certainty through clear and distinct perceptions, which he often modeled after the rigor of geometry. [20](https://plato.stanford.edu/entries/descartes-epistemology/)
 
-Many philosophers believe that thought, logic, and mathematics are innate to the human mind and follow necessary structures (or "geometries") to make sense of the world. [19](https://en.wikisource.org/wiki/The_Philosophical_Works_of_Decartes/Volume_1/Meditations_on_First_Philosophy/Meditation_5)
+Many philosophers believe that thought, logic, and mathematics are innate to the human mind and follow necessary structures (or "geometries") to make sense of the world. [21](https://en.wikisource.org/wiki/The_Philosophical_Works_of_Decartes/Volume_1/Meditations_on_First_Philosophy/Meditation_5)
 
  Even when sensory experience is doubted, geometric truths (like \(1+1=2\) or properties of triangles) seem to remain certain
 
@@ -513,9 +513,9 @@ Many philosophers believe that thought, logic, and mathematics are innate to the
 
 The way biological retinas (cone cells) map space or how the cochlea decomposes frequencies is deeply euclidean and related to detec spatial dimensions. 
 
-Soundwaves are pressure variations (\(p(x,t)\)) in the air. [20](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123622/)
+Soundwaves are pressure variations (\(p(x,t)\)) in the air. [22](https://pmc.ncbi.nlm.nih.gov/articles/PMC4123622/)
 
-The human ear converts these into a "map" of vibrations along the basilar membrane within the cochlea, which is a 3D coiled structure. [21](https://entokey.com/auditory-psychophysics/)
+The human ear converts these into a "map" of vibrations along the basilar membrane within the cochlea, which is a 3D coiled structure. [23](https://entokey.com/auditory-psychophysics/)
 
 The coiling (spiral form) and the graded stiffness of the human basilar membrane are essential to the mechanics, specifically enhancing low-frequency hearing, which follows Differential Geometry.
 
@@ -523,7 +523,7 @@ In humans, The outer hair cells act as feedback controllers (like tiny piezo-ele
 
 This mechanical vibration is converted into electrical signals through a process called mechanotransduction.
 
-Hair cells (specifically the inner hair cells) on the basilar membrane have hair-like protrusions (stereocilia).Fluid movements caused by sound waves bend these stereocilia, opening ion channels and creating electrical impulses.These signals are transmitted via the auditory nerve to the brain as action potentials. [22](https://journals.physiology.org/doi/abs/10.1152/physrev.00002.2002)
+Hair cells (specifically the inner hair cells) on the basilar membrane have hair-like protrusions (stereocilia).Fluid movements caused by sound waves bend these stereocilia, opening ion channels and creating electrical impulses.These signals are transmitted via the auditory nerve to the brain as action potentials. [24](https://journals.physiology.org/doi/abs/10.1152/physrev.00002.2002)
 
 This is a combination of strict, frequency-specific physical geometry (the cochlea) and highly adaptable neural processing (the brain).
 
@@ -550,7 +550,7 @@ In that regard, it is indeed dimensionless. The "Space" of Reasons: Some philoso
 
 ## 1. Hyperbola vs Hyperboloid 
 
-A hyperbola is a 2D conic section (a curve), while a hyperboloid is a 3D quadratic surface generated by rotating a hyperbola. [24](https://calcworkshop.com/wp-content/uploads/hyperbola-hyperboloid-one-sheet-equation-graph.png)
+A hyperbola is a 2D conic section (a curve), while a hyperboloid is a 3D quadratic surface generated by rotating a hyperbola. [25](https://calcworkshop.com/wp-content/uploads/hyperbola-hyperboloid-one-sheet-equation-graph.png)
 
 If you draw an X and Y axis on a flat piece of paper and graph a mathematical function, you get a hyperbola. It is a curved line. But a wormhole is a tunnel. You cannot travel through a 2D line; you need a space with volume (a tube or a tunnel) to pass through.
 
@@ -570,9 +570,9 @@ When you see a "paper" model of a wormhole, the curved sides that connect two fl
 
 This structure represents the "throat" of the wormhole.
 
-This solution became famous because acts as a "bridge", the mathematical solution to Einstein's field equations that requires higher dimensions to visualize. [25](https://www.youtube.com/watch?v=JDblpfBkRD0)
+This solution became famous because acts as a "bridge", the mathematical solution to Einstein's field equations that requires higher dimensions to visualize. [26](https://www.youtube.com/watch?v=JDblpfBkRD0)
 
-A 3D space is difficult to visualize when it folds on itself. By simplifying 3D space into a 2D sheet, the "tunnel" (or throat) becomes clear as it travels through a "third" dimension, which conceptually represents the higher (4th+) spatial dimension. [26](https://www.crystalinks.com/wormholes.html)
+A 3D space is difficult to visualize when it folds on itself. By simplifying 3D space into a 2D sheet, the "tunnel" (or throat) becomes clear as it travels through a "third" dimension, which conceptually represents the higher (4th+) spatial dimension. [27](https://www.crystalinks.com/wormholes.html)
 
 The 2D-surface-folded-through-a-3D-space analogy can help make an otherwise abstract 4D+ concept understandable by demonstrating how two distant points in a 3D universe can be connected.
 
@@ -592,13 +592,13 @@ A wormhole appears as a 3D sphere because it is a "hole" in 3-dimensional space.
 
 In a 2D spatial world (like a piece of paper), a hole is a 1D line or circle. In our 3D world, a hole that connects two points in space must be a 3D object, a sphere.
 
-While the math for traversable wormholes was pioneered by Kip Thorne and his students in 1988, the definitive 3D visual we recognize today was perfected for the movie Interstellar (2014). [26](https://arxiv.org/abs/1502.03809)
+While the math for traversable wormholes was pioneered by Kip Thorne and his students in 1988, the definitive 3D visual we recognize today was perfected for the movie Interstellar (2014). [28](https://arxiv.org/abs/1502.03809)
 
-Thorne provided the actual Einstein Field Equations to the film's visual effects team at Double Negative.  [27](https://pubs.aip.org/aapt/ajp/article/83/6/486/1057802/Visualizing-Interstellar-s-Wormhole) 
+Thorne provided the actual Einstein Field Equations to the film's visual effects team at Double Negative.  [29](https://pubs.aip.org/aapt/ajp/article/83/6/486/1057802/Visualizing-Interstellar-s-Wormhole) 
 
 The team wrote new rendering software based on these equations to see what would actually happen to light passing through such a structure. The result was the "crystal ball" look that bypassed traditional science fiction's "flat portal" tropes.
 
-Before this, most people visualized wormholes using the "folded paper" analogy from a 1916 realization by Ludwig Flamm, which was purely a 2D representation. [26](https://arxiv.org/abs/1502.03809) [28](https://www.wired.com/2014/10/astrophysics-interstellar-black-hole/) [29](https://www.quora.com/Does-a-wormhole-look-like-a-sphere-If-not-what-does-it-look-like)
+Before this, most people visualized wormholes using the "folded paper" analogy from a 1916 realization by Ludwig Flamm, which was purely a 2D representation. [28](https://arxiv.org/abs/1502.03809) [30](https://www.wired.com/2014/10/astrophysics-interstellar-black-hole/) [31](https://www.quora.com/Does-a-wormhole-look-like-a-sphere-If-not-what-does-it-look-like)
 
 <div align="center">
 
