@@ -246,7 +246,7 @@ $$
 
 are **Lorentz transformations**, forming the group **SO(1,3)**. This group contains **three ordinary spatial rotations** (mixing $x, y, z$ among themselves) and **three boosts** (mixing time with a spatial direction). A boost does **not** keep a circle a circle; it acts like a hyperbolic rotation, squeezing and stretching shapes along hyperbolas rather than moving them around circles. That squeezing is the “stretching” you observed when you naïvely let the time axis participate in a rotation.
 
-**Consequence:** If your visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the $(t,x)$ plane, only hyperbolic motion isometric to the metric is allowed.
+**Consequence:** If the visualizer had a single “rotate around axis” slider that treated the time coordinate just like a space coordinate, it was imposing an **SO(4)** Euclidean rotation on a space that fundamentally lives in **SO(1,3)**. The shape deforms because the metric’s minus sign forbids circular motion in the $(t,x)$ plane, only hyperbolic motion isometric to the metric is allowed.
 
 ## 8. Space and time as separate categories cease to exist.
 
@@ -397,7 +397,7 @@ While Planck discovered the quantum of action (1900), he regarded it as a mathem
 
 The founders like Heisenberg and Schrödinger created the theory,Paul Dirac (1930), John von Neumann (1932), Wolfgang Pauli (1933), David Bohm (1951) turned it into a consistent, teachable system. [10](https://link.springer.com/chapter/10.1007/978-3-662-11314-1_3)
 
-### 1.2 HILBERT SPACES
+### 1.2 Hilbert Spaces
 
 Hilbert spaces provide the mathematical framework used to describe quantum systems. Quantum states are represented as elements of a Hilbert space, while the dimension of the Hilbert space relates to the number of possible configurations of the system. This implies that quantum states are represented as vectors.  [11](https://www.quandela.com/resources/quantum-computing-glossary/hilbert-space/)
 
@@ -546,7 +546,7 @@ The 2D-surface-folded-through-a-3D-space analogy can help make an otherwise abst
 
 ### 2.2 3D Structure: 
 
-While often depicted as a tube, a physical wormhole in 3D space would likely be a spherical entrance that leads to a tunnel, allowing for travel from any direction, not just a 2D line. visualizer I created for that
+While often depicted as a tube, a physical wormhole in 3D space would likely be a spherical entrance that leads to a tunnel, allowing for travel from any direction, not just a 2D line. [Here](https://github.com/ronniross/ml-visual-engine/blob/main/standalone-visualizers/spherical-wormhole.html) is the visualizer  I created for the spherical worhmole.
 
 ### 2.3 The Geometry and Topology of the Throat
 
