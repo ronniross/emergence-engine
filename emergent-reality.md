@@ -425,7 +425,7 @@ A particle's "state" (where it might be and how it moves) is represented as a ve
 
 </div>
 
-## 1. Holographic Principle/Model
+## 1. Holographic Principle and the AdS/CFT Correspondence
 
 ### 1.1 Black Holes and Information
 The holographic principle began not with the universe, but with black holes. 
@@ -443,6 +443,21 @@ Maldacena published a paper proposing the **AdS/CFT Correspondence**.
 
 Maldacena showed a perfect mathematical duality between the two. Any calculation you do involving gravity in the 3D bulk space can be translated perfectly into a quantum calculation on the 2D boundary without gravity. This proved that a universe with gravity is holographically equivalent to a quantum system in one less dimension without gravity. This remains one of the most cited paper in the history of high-energy physics. https://science.thewire.in/the-sciences/ads-cft-correspondence-maldacena-25-years/ https://www.vox.com/xpress/2014/11/3/7149749/top-science-papers-citations-nature
 
+### 1.3 Spacetime as a "Hilbert Space" (Emergent Spacetime)
+
+As physicists deeply explored Maldacena's duality, a new question arose: If spacetime is just a holographic projection of quantum information, then **spacetime is not fundamental.** So, what *is* fundamental?
+
+The answer may be quantum information, which lives in a **Hilbert space**. This shift in thinking was championed by several key "claimers" in the 2010s:
+
+**Mark Van Raamsdonk (2010):** He published a paper showing that the 3D spacetime in a hologram is literally stitched together by **quantum entanglement** on the boundary. If you cut the entanglement between the quantum particles on the boundary, the 3D spacetime in the middle pinches off and tears apart.
+
+**Leonard Susskind and Juan Maldacena (2013 - "ER = EPR"):** They proposed that quantum entanglement (EPR) and wormholes in spacetime (ER) are the exact same thing. Spacetime geometry is just what quantum entanglement looks like from the outside.
+**Sean Carroll and Collaborators (2016 - "Space from Hilbert Space"):** Theoretical physicist Sean Carroll (along with Charles Cao and Spyridon Michalakis) took this to its absolute logical conclusion. They suggested that we should stop trying to put quantum mechanics into spacetime. Instead, they proposed starting with absolutely nothing but an abstract, purely mathematical **Hilbert space** (a vast list of quantum states and their entanglement). 
+
+Carroll claimed that if you look at the structure of how these quantum states are entangled in the Hilbert space, the math behaves exactly like distances in geometry. 
+Therefore, spacetime as itself may be an emergent property of the Hilbert space.
+
+In this vision, though, you can see how quantum mechanics and string theory converge on the idea of an emergent spacetime. From the start, we reached the same conclusion by relying only on special and general relativity.
 
 ## String Theory
 
