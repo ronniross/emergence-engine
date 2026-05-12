@@ -722,8 +722,20 @@ This sits right between Projective and Euclidean geometry.
 ### Which one is the most "Basilar"?
 If we had to pick the most fundamental based on mathematical stability, it would likely be *Projective Geometry*.
 
-Most of the geometries you know (Euclidean, Elliptic, Hyperbolic) can actually be derived as *sub-geometries* of Projective space. It is the "parent" logic. By simply choosing a specific boundary (like a circle or a line at infinity), you "spawn" the others. It is the most stable because it requires the fewest assumptions to exist.
+Most of the geometries we are most familiar (Euclidean, Elliptic, Hyperbolic) could actually be described as derived,  *sub-geometries*, of Projective space. It is the "parent" logic. By simply choosing a specific boundary (like a circle or a line at infinity), you "spawn" the others. It is the most stable because it requires the fewest assumptions to exist.
 
+### 3. The Landscape of Geometry
+
+Mathematically, there is an *infinite* number of non-Euclidean geometries that can exist. While the two most famous types, *spherical* (elliptic) and *hyperbolic, were the first to be described as we know, they represent only specific cases of **Riemannian geometry*, where curvature is constant.
+
+ * *Riemannian Geometry:* Introduced by Bernhard Riemann, this framework allows for curvature to vary from point to point. Because you can define an infinite variety of smooth manifolds with different curvature distributions, the number of possible "geometries" is uncountably infinite.
+ * *Finsler Geometry:* This is a further generalization where the "distance" between points can depend not just on position, but also on the direction you are moving. It provides an even larger (infinite) set of possible geometric spaces.
+ * *Taxonomy of Spaces:* Modern mathematics focuses on the properties of these spaces rather than "discovering" them one by one. If you change a single parameter in the metric tensor (the formula for distance), you technically create a "new" geometry.
+### Is "Discovery" Still Happening?
+While the existence of these infinite possibilities is known, researchers are constantly "discovering" how specific non-Euclidean geometries apply to new fields:
+ * *Network Science:* Complex social and biological networks are often found to have an underlying *hyperbolic geometry*, which explains why they "cluster" and scale the way they do (Macocco, 2024).
+ * *Deep Learning:* "Geometric Deep Learning" explores data that lives on non-Euclidean manifolds, such as graphs or 3D meshes, where standard Euclidean operations like convolution don't work (Bronstein et al., 2017).
+ * *Physics:* Researchers have recently observed novel topological states in *hyperbolic circuit networks*, showing that non-Euclidean structures can create physical behaviors impossible in flat space (Zhang et al., 2022). [32](https://iris.sissa.it/retrieve/d53e480b-792f-482e-88bb-6ee0e2ced3c1/Macocco_PhD_Thesis.pdf) [33](https://doi.org/10.1038/s41467-022-30631-x)
 
 ---  
 Ronni Ross  
