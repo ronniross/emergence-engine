@@ -417,6 +417,31 @@ Finite Dimensions: In a 2D system like a quantum bit (qubit), the ket can be wri
 
 A particle's "state" (where it might be and how it moves) is represented as a vector in a Hilbert space.
 
+### 1.3 Planck Scale
+
+The German physicist Max Planck proposed the foundational units of what later became known as the Planck scale in 1899. He introduced these "natural units", based on constants like the speed of light and gravitational constant, to create a system not based on arbitrary human measurements. https://mathshistory.st-andrews.ac.uk/SH/planck_sh.pdf https://www.ebsco.com/research-starters/history/max-planck-sets-forth-tenets-quantum-theory
+
+In the late 1890s, classical physics failed to explain why hot objects emitted specific radiation intensities (the black-body radiation problem).
+
+On December 14, 1900, Planck presented a new formula, proposing that energy exists in discrete "quanta," meaning it is emitted or absorbed in specific packets.  https://www.symmetrymagazine.org/article/the-planck-scale?language_content_entity=und
+
+It represents the scale at which classical ideas about gravity and space-time cease to be valid and quantum effects dominate, typically around \(10^{-35}\) meters, which elucidated the necessity of the yet-unknown theory that integrate both to understand the phenomena. https://bigthink.com/starts-with-a-bang/physics-break-down-planck-scale/
+
+To visualize, if a proton were scaled to the size of the observable universe, the Planck length would only be about the size of a human finger.  The Planck length is considered the smallest meaningful distance; any attempts to measure smaller distances result in the formation of a micro black hole. https://bigthink.com/starts-with-a-bang/physics-break-down-planck-scale/
+
+He introduced the famous equation \(E = h\nu\), where \(E\) is the energy, \(\nu \) is the frequency, and \(h\) is a universal constant now known as Planck's constant. https://www.mpg.de/19252749/what-did-max-planck-discover
+
+The scale is derived from three fundamental constants: the speed of light (\(c\)), Newton’s gravitational constant (\(G\)), and the reduced Planck constant (\(\hbar \)).
+
+Planck initially considered his quantum theory a "purely formal assumption"—a mathematical trick to make his formula work—rather than a fundamental change in physics.  This work was later essential for Einstein's work on the photoelectric effect and the development of quantum mechanics. https://mathshistory.st-andrews.ac.uk/SH/planck_sh.pdf https://www.britannica.com/science/Plancks-constant https://www.esa.int/Science_Exploration/Space_Science/Planck/Max_Planck_Originator_of_quantum_theory https://www.mpg.de/19252749/what-did-max-planck-discover
+
+Planck length: \(\ell_P = \sqrt{\frac{\hbar G}{c^3}} \approx 1.616 \times 10^{-35} \text{ m}\)  
+Planck time: \(t_P = \sqrt{\frac{\hbar G}{c^5}} \approx 5.391 \times 10^{-44} \text{ s}\)  
+Planck mass: \(m_P = \sqrt{\frac{\hbar c}{G}} \approx 2.176 \times 10^{-8} \text{ kg}\)  
+Planck energy: \(E_P = m_P c^2 \approx 1.22 \times 10^{19} \text{ GeV}\)   https://www.techtarget.com/whatis/definition/Plancks-constant https://bigthink.com/starts-with-a-bang/physics-break-down-planck-scale/
+
+The exact nature of what occurs at the Planck scale is still an open question. https://arxiv.org/html/2501.07614v1
+
 ## 2. Standard Model of particle physics 
 
 <div align="center">
