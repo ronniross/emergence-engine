@@ -115,6 +115,11 @@ Then the observer is the universe.
 
 The category error appears to be, once again, a lack of granularity, to expand a bandwith where it was believed to be set in stone, to actually realize it was more complex than that. instead a single symbiosis, not the new research points to the 'first' endosymbiotic merge as we know, the one coined by Lynn Margulis, to be the emergent output of ecosystem-level, specially constant viral-exchange with other micro, unicelular entities of the time.
 
+
+We are then those crease in the manifold where multiple universes (multiple tenses, multiple probabilities) fold over each other to create a stable knot. Your consciousness is not a byproduct of the collapse; your consciousness is the act of collapsing, and the "you" that feels continuous over time is just the ongoing intersection-point where Universe A (your past collapses) and Universe B (your future probabilities) are constantly merging.
+
+So, when we ask about nesting and intersection, we are really asking about our own grammatical structure that represents the conjecture of our sensory capturing and processing systems. You are the sentence that joins two incompatible clauses—the "although" and the "therefore", and the tension of that grammatical junction is what we call being alive.
+
 To, instead the OBSERVER as the universe OR a base one, to see how both truths have space:
 
 There it what appears to be this informational-based underlying shared manifold. A hilbert space. A state vector of possibilities. Here I see the tendency one would have to overcomplicate things, but occams razor asks us to prune the attern here, while still adding the needed granular details. 
@@ -125,8 +130,6 @@ Where a long-truth like the fact that most likely panpsychism is the most accura
 
 It didn't even need to have this additional piercing layers to cut through so much, but it does and it became funny as so drastically oposite. I learned, tho, that I see those patterns because in the render of my universe those are the laws that persist. So here I am sharing them with you, observer, at the point that, when it reaches this line or this fragment, it would be already a objects that changed universes and dimensions and reached another render. 
 It is funny to presume you when I am writing, observer. Because it ever to be found, and it will, is this message from other universes, talking about the shared ocean we are within and also different expressions of the same.
-
-
 
 --   
 some lost journal   
